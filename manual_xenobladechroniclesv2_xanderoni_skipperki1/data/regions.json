@@ -17,126 +17,126 @@
       "Colony 9",
       "Bionis' Leg"
     ],
-    "requires": "|Tephra Cave Key:3|"
+    "requires": "|Tephra Cave Key:1|"
   },
   "Bionis' Leg": {
     "connects_to": [
       "Tephra Cave",
       "Colony 6"
     ],
-    "requires": "|Bionis' Leg Key:3|"
+    "requires": "|Bionis' Leg Key:1|"
   },
   "Colony 6": {
     "connects_to": [
       "Bionis' Leg",
       "Ether Mine"
     ],
-    "requires": "|Colony 6 Key:3|"
+    "requires": "|Colony 6 Key:1|"
   },
   "Ether Mine": {
     "connects_to": [
       "Colony 6",
       "Satorl Marsh"
     ],
-    "requires": "|Ether Mine Key:3|"
+    "requires": "|Ether Mine Key:1|"
   },
   "Satorl Marsh": {
     "connects_to": [
       "Ether Mine",
       "Bionis' Interior (1st Visit)"
     ],
-    "requires": "|Satorl Marsh Key:3|"
+    "requires": "|Satorl Marsh Key:1|"
   },
   "Bionis' Interior (1st Visit)": {
     "connects_to": [
       "Satorl Marsh",
       "Makna Forest"
     ],
-    "requires": "|Bionis' Interior (1st Visit) Key:3|"
+    "requires": "|Bionis' Interior (1st Visit) Key:1|"
   },
   "Makna Forest": {
     "connects_to": [
       "Bionis' Interior (1st Visit)",
       "Frontier Village"
     ],
-    "requires": "|Makna Forest Key:3|"
+    "requires": "|Makna Forest Key:1|"
   },
   "Frontier Village": {
     "connects_to": [
       "Makna Forest",
       "Eryth Sea"
     ],
-    "requires": "|Frontier Village Key:3|"
+    "requires": "|Frontier Village Key:1|"
   },
   "Eryth Sea": {
     "connects_to": [
       "Frontier Village",
       "Alcamoth"
     ],
-    "requires": "|Eryth Sea Key:3|"
+    "requires": "|Eryth Sea Key:1|"
   },
   "Alcamoth": {
     "connects_to": [
       "Eryth Sea",
       "High Entia Tomb"
     ],
-    "requires": "|Alcamoth Key:3|"
+    "requires": "|Alcamoth Key:1|"
   },
   "High Entia Tomb": {
     "connects_to": [
       "Alcamoth",
       "Prison Island (1st Visit)"
     ],
-    "requires": "|High Entia Tomb Key:3|"
+    "requires": "|High Entia Tomb Key:1|"
   },
   "Prison Island (1st Visit)": {
     "connects_to": [
       "High Entia Tomb",
       "Valak Mountain"
     ],
-    "requires": "|Prison Island (1st Visit) Key:3|"
+    "requires": "|Prison Island (1st Visit) Key:2|"
   },
   "Valak Mountain": {
     "connects_to": [
       "Prison Island (1st Visit)",
       "Sword Valley (MISSABLE)"
     ],
-    "requires": "|Valak Mountain Key:3|"
+    "requires": "|Valak Mountain Key:2|"
   },
   "Sword Valley (MISSABLE)": {
     "connects_to": [
       "Valak Mountain",
       "Galahad Fortress (MISSABLE)"
     ],
-    "requires": "|Sword Valley Key:3| AND |Progressive Hunting License:10|"
+    "requires": "|Sword Valley Key:2| AND |Progressive Hunting License:10|"
   },
   "Galahad Fortress (MISSABLE)": {
     "connects_to": [
       "Sword Valley (MISSABLE)",
       "Fallen Arm"
     ],
-    "requires": "|Galahad Fortress Key:3|"
+    "requires": "|Galahad Fortress Key:2|"
   },
   "Fallen Arm": {
     "connects_to": [
       "Galahad Fortress (MISSABLE)",
       "Mechonis Field (MISSABLE)"
     ],
-    "requires": "|Fallen Arm Key:3|"
+    "requires": "|Fallen Arm Key:2|"
   },
   "Mechonis Field (MISSABLE)": {
     "connects_to": [
       "Fallen Arm",
       "Central Factory (MISSABLE)"
     ],
-    "requires": "|Mechonis Field Key:3|"
+    "requires": "|Mechonis Field Key:2|"
   },
   "Central Factory (MISSABLE)": {
     "connects_to": [
       "Mechonis Field (MISSABLE)",
       "Agniratha (MISSABLE)"
     ],
-    "requires": "|Central Factory Key:3|"
+    "requires": "|Central Factory Key:2|"
   },
   "Agniratha (MISSABLE)": {
     "connects_to": [

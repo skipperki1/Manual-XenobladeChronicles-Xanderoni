@@ -1,11 +1,13 @@
 [
   {
-    "count": "3",
+    "count": "1",
     "name": "Tephra Cave Key",
     "category": [
       "Area Keys"
     ],
-    "progression": true
+    "progression": true,
+    "local": true,
+    "early": true
   },
   {
     "count": "2",
@@ -1253,7 +1255,9 @@
     "category": [
       "Hunting Licenses"
     ],
-    "progression": true
+    "progression": true,
+    "local": 3,
+    "early": 3
   },
   {
     "count": "20",
@@ -1269,7 +1273,9 @@
     "category": [
       "Collectopaedia Pages"
     ],
-    "progression": true
+    "progression": true,
+    "local": 2,
+    "early": 2
   },
   {
     "count": 11,
@@ -1277,7 +1283,9 @@
     "category": [
       "Collectopaedia Pages"
     ],
-    "progression": true
+    "progression": true,
+    "local": 2,
+    "early": 2
   },
   {
     "count": 11,
@@ -1285,7 +1293,9 @@
     "category": [
       "Collectopaedia Pages"
     ],
-    "progression": true
+    "progression": true,
+    "local": 2,
+    "early": 2
   },
   {
     "count": 11,
@@ -1293,7 +1303,9 @@
     "category": [
       "Collectopaedia Pages"
     ],
-    "progression": true
+    "progression": true,
+    "local": 2,
+    "early": 2
   },
   {
     "count": 13,
@@ -1301,7 +1313,9 @@
     "category": [
       "Collectopaedia Pages"
     ],
-    "progression": true
+    "progression": true,
+    "local": 3,
+    "early": 3
   },
   {
     "count": 11,
@@ -1309,7 +1323,9 @@
     "category": [
       "Collectopaedia Pages"
     ],
-    "progression": true
+    "progression": true,
+    "local": 2,
+    "early": 2
   },
   {
     "count": 13,
@@ -1317,7 +1333,9 @@
     "category": [
       "Collectopaedia Pages"
     ],
-    "progression": true
+    "progression": true,
+    "local": 2,
+    "early": 2
   },
   {
     "count": 21,
@@ -1325,42 +1343,52 @@
     "category": [
       "Collectopaedia Pages"
     ],
-    "progression": true
+    "progression": true,
+    "local": 3,
+    "early": 3
   },
   {
-    "count": "3",
+    "count": "1",
     "name": "Bionis' Leg Key",
     "category": [
       "Area Keys"
     ],
-    "progression": true
+    "progression": true,
+    "local": true,
+    "early": true
   },
   {
-    "count": "3",
+    "count": "1",
     "name": "Colony 6 Key",
     "category": [
       "Area Keys"
     ],
-    "progression": true
+    "progression": true,
+    "local": true,
+    "early": true
   },
   {
-    "count": "3",
+    "count": "1",
     "name": "Ether Mine Key",
     "category": [
       "Area Keys"
     ],
-    "progression": true
+    "progression": true,
+    "local": true,
+    "early": true
   },
   {
-    "count": "3",
+    "count": "1",
     "name": "Satorl Marsh Key",
     "category": [
       "Area Keys"
     ],
-    "progression": true
+    "progression": true,
+    "local": true,
+    "early": true
   },
   {
-    "count": "3",
+    "count": "1",
     "name": "Bionis' Interior (1st Visit) Key",
     "category": [
       "Area Keys"
@@ -1368,7 +1396,7 @@
     "progression": true
   },
   {
-    "count": "3",
+    "count": "1",
     "name": "Makna Forest Key",
     "category": [
       "Area Keys"
@@ -1376,7 +1404,7 @@
     "progression": true
   },
   {
-    "count": "3",
+    "count": "1",
     "name": "Frontier Village Key",
     "category": [
       "Area Keys"
@@ -1384,7 +1412,7 @@
     "progression": true
   },
   {
-    "count": "3",
+    "count": "1",
     "name": "Eryth Sea Key",
     "category": [
       "Area Keys"
@@ -1392,7 +1420,7 @@
     "progression": true
   },
   {
-    "count": "3",
+    "count": "1",
     "name": "Alcamoth Key",
     "category": [
       "Area Keys"
@@ -1400,7 +1428,7 @@
     "progression": true
   },
   {
-    "count": "3",
+    "count": "1",
     "name": "High Entia Tomb Key",
     "category": [
       "Area Keys"
@@ -1408,7 +1436,7 @@
     "progression": true
   },
   {
-    "count": "3",
+    "count": "2",
     "name": "Prison Island (1st Visit) Key",
     "category": [
       "Area Keys"
@@ -1416,7 +1444,7 @@
     "progression": true
   },
   {
-    "count": "3",
+    "count": "2",
     "name": "Valak Mountain Key",
     "category": [
       "Area Keys"
@@ -1424,7 +1452,7 @@
     "progression": true
   },
   {
-    "count": "3",
+    "count": "2",
     "name": "Sword Valley Key",
     "category": [
       "Area Keys"
@@ -1432,7 +1460,7 @@
     "progression": true
   },
   {
-    "count": "3",
+    "count": "2",
     "name": "Galahad Fortress Key",
     "category": [
       "Area Keys"
@@ -1440,7 +1468,7 @@
     "progression": true
   },
   {
-    "count": "3",
+    "count": "2",
     "name": "Fallen Arm Key",
     "category": [
       "Area Keys"
@@ -1448,7 +1476,7 @@
     "progression": true
   },
   {
-    "count": "3",
+    "count": "2",
     "name": "Mechonis Field Key",
     "category": [
       "Area Keys"
@@ -1456,7 +1484,7 @@
     "progression": true
   },
   {
-    "count": "3",
+    "count": "2",
     "name": "Central Factory Key",
     "category": [
       "Area Keys"
