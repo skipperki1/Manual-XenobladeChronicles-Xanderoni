@@ -570,7 +570,7 @@
     "name": "Colony 9 Collectopaedia Vegetable Completion",
     "region": "Colony 9",
     "category": [
-      "Colony 9 Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Colony 9 Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Colony 9, Vegetable)}"
   },
@@ -586,7 +586,7 @@
     "name": "Colony 9 Collectopaedia Flower Completion",
     "region": "Colony 9",
     "category": [
-      "Colony 9 Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Colony 9 Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Colony 9, Flower)}"
   },
@@ -594,7 +594,7 @@
     "name": "Colony 9 Collectopaedia Bug Completion",
     "region": "Colony 9",
     "category": [
-      "Colony 9 Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Colony 9 Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Colony 9, Bug)}"
   },
@@ -602,7 +602,7 @@
     "name": "Colony 9 Collectopaedia Part Completion",
     "region": "Colony 9",
     "category": [
-      "Colony 9 Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Colony 9 Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Colony 9, Part)}"
   },
@@ -610,7 +610,7 @@
     "name": "Colony 9 Collectopaedia Strange Completion",
     "region": "Colony 9",
     "category": [
-      "Colony 9 Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Colony 9 Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Colony 9, Strange)}"
   },
@@ -817,7 +817,7 @@
     "name": "Tephra Cave Collectopaedia Page Complete",
     "region": "Tephra Cave",
     "category": [
-      "Tephra Cave Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Tephra Cave Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Tephra Cave, ALL)}"
   },
@@ -825,7 +825,7 @@
     "name": "Tephra Cave Collectopaedia Fruit Completion",
     "region": "Tephra Cave",
     "category": [
-      "Tephra Cave Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Tephra Cave Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Tephra Cave, Fruit)}"
   },
@@ -833,7 +833,7 @@
     "name": "Tephra Cave Collectopaedia Flower Completion",
     "region": "Tephra Cave",
     "category": [
-      "Tephra Cave Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Tephra Cave Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Tephra Cave, Flower)}"
   },
@@ -841,7 +841,7 @@
     "name": "Tephra Cave Collectopaedia Animal Completion",
     "region": "Tephra Cave",
     "category": [
-      "Tephra Cave Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Tephra Cave Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Tephra Cave, Animal)}"
   },
@@ -849,7 +849,7 @@
     "name": "Tephra Cave Collectopaedia Bug Completion",
     "region": "Tephra Cave",
     "category": [
-      "Tephra Cave Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Tephra Cave Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Tephra Cave, Bug)}"
   },
@@ -857,7 +857,7 @@
     "name": "Tephra Cave Collectopaedia Nature Completion",
     "region": "Tephra Cave",
     "category": [
-      "Tephra Cave Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Tephra Cave Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Tephra Cave, Nature)}"
   },
@@ -1161,7 +1161,7 @@
     "name": "Bionis' Leg Collectopaedia Page Completion",
     "region": "Bionis' Leg",
     "category": [
-      "Bionis' Leg Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Bionis' Leg Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Bionis' Leg, ALL)}"
   },
@@ -1169,7 +1169,7 @@
     "name": "Bionis' Leg Collectopaedia Vegetable Completion",
     "region": "Bionis' Leg",
     "category": [
-      "Bionis' Leg Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Bionis' Leg Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Bionis' Leg, Vegetable)}"
   },
@@ -1177,7 +1177,7 @@
     "name": "Bionis' Leg Collectopaedia Fruit Completion",
     "region": "Bionis' Leg",
     "category": [
-      "Bionis' Leg Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Bionis' Leg Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Bionis' Leg, Fruit)}"
   },
@@ -1185,7 +1185,7 @@
     "name": "Bionis' Leg Collectopaedia Bug Completion",
     "region": "Bionis' Leg",
     "category": [
-      "Bionis' Leg Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Bionis' Leg Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Bionis' Leg, Bug)}"
   },
@@ -1193,7 +1193,7 @@
     "name": "Bionis' Leg Collectopaedia Nature Completion",
     "region": "Bionis' Leg",
     "category": [
-      "Bionis' Leg Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Bionis' Leg Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Bionis' Leg, Nature)}"
   },
@@ -1201,7 +1201,7 @@
     "name": "Bionis' Leg Collectopaedia Part Completion",
     "region": "Bionis' Leg",
     "category": [
-      "Bionis' Leg Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Bionis' Leg Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Bionis' Leg, Part)}"
   },
@@ -1209,7 +1209,7 @@
     "name": "Bionis' Leg Collectopaedia Strange Completion",
     "region": "Bionis' Leg",
     "category": [
-      "Bionis' Leg Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Bionis' Leg Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Bionis' Leg, Strange)}"
   },
@@ -1443,7 +1443,7 @@
     "name": "Colony 6 Collectopaedia Page Completion",
     "region": "Colony 6",
     "category": [
-      "Colony 6 Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Colony 6 Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Colony 6, ALL)}"
   },
@@ -1451,7 +1451,7 @@
     "name": "Colony 6 Collectopaedia Flower Completion",
     "region": "Colony 6",
     "category": [
-      "Colony 6 Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Colony 6 Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Colony 6, Flower)}"
   },
@@ -1459,7 +1459,7 @@
     "name": "Colony 6 Collectopaedia Animal Completion",
     "region": "Colony 6",
     "category": [
-      "Colony 6 Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Colony 6 Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Colony 6, Animal)}"
   },
@@ -1467,7 +1467,7 @@
     "name": "Colony 6 Collectopaedia Strange Completion",
     "region": "Colony 6",
     "category": [
-      "Colony 6 Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Colony 6 Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Colony 6, Strange)}"
   },
@@ -1627,7 +1627,7 @@
     "name": "Ether Mine Collectopaedia Page Completion",
     "region": "Ether Mine",
     "category": [
-      "Ether Mine Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Ether Mine Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Ether Mine, ALL)}"
   },
@@ -1635,7 +1635,7 @@
     "name": "Ether Mine Collectopaedia Animal Completion",
     "region": "Ether Mine",
     "category": [
-      "Ether Mine Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Ether Mine Collectopaedia","Collectopaedia"
     ],
   "requires": "{collectopaediaComplete(Ether Mine, Animal)}"
   },
@@ -1643,7 +1643,7 @@
     "name": "Ether Mine Collectopaedia Bug Completion",
     "region": "Ether Mine",
     "category": [
-      "Ether Mine Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Ether Mine Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Ether Mine, Bug)}"
   },
@@ -1651,7 +1651,7 @@
     "name": "Ether Mine Collectopaedia Nature Completion",
     "region": "Ether Mine",
     "category": [
-      "Ether Mine Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Ether Mine Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Ether Mine, Nature)}"
   },
@@ -1659,7 +1659,7 @@
     "name": "Ether Mine Collectopaedia Parts Completion",
     "region": "Ether Mine",
     "category": [
-      "Ether Mine Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Ether Mine Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Ether Mine, Part)}"
   },
@@ -1667,7 +1667,7 @@
     "name": "Ether Mine Collectopaedia Strange Completion",
     "region": "Ether Mine",
     "category": [
-      "Ether Mine Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Ether Mine Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Ether Mine, Strange)}"
   },
@@ -1879,7 +1879,7 @@
     "name": "Satorl Marsh Collectopaedia Page Completion",
     "region": "Satorl Marsh",
     "category": [
-      "Satorl Marsh Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Satorl Marsh Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Satorl Marsh, ALL)}"
   },
@@ -1887,7 +1887,7 @@
     "name": "Satorl Marsh Collectopaedia Vegetable Completion",
     "region": "Satorl Marsh",
     "category": [
-      "Satorl Marsh Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Satorl Marsh Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Satorl Marsh, Vegetable)}"
   },
@@ -1895,7 +1895,7 @@
     "name": "Satorl Marsh Collectopaedia Flower Completion",
     "region": "Satorl Marsh",
     "category": [
-      "Satorl Marsh Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Satorl Marsh Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Satorl Marsh, Flower)}"
   },
@@ -1903,7 +1903,7 @@
     "name": "Satorl Marsh Collectopaedia Animal Completion",
     "region": "Satorl Marsh",
     "category": [
-      "Satorl Marsh Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Satorl Marsh Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Satorl Marsh, Animal)}"
   },
@@ -1911,7 +1911,7 @@
     "name": "Satorl Marsh Collectopaedia Nature Completion",
     "region": "Satorl Marsh",
     "category": [
-      "Satorl Marsh Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Satorl Marsh Collectopaedia","Collectopaedia"
     ],
   "requires": "{collectopaediaComplete(Satorl Marsh, Nature)}"
   },
@@ -1919,7 +1919,7 @@
     "name": "Satorl Marsh Collectopaedia Parts Completion",
     "region": "Satorl Marsh",
     "category": [
-      "Satorl Marsh Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Satorl Marsh Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Satorl Marsh, Part)}"
   },
@@ -1927,7 +1927,7 @@
     "name": "Satorl Marsh Collectopaedia Strange Completion",
     "region": "Satorl Marsh",
     "category": [
-      "Satorl Marsh Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Satorl Marsh Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Satorl Marsh, Strange)}"
   },
@@ -2179,7 +2179,7 @@
     "name": "Makna Forest Collectopaedia Page Completion",
     "region": "Makna Forest",
     "category": [
-      "Makna Forest Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Makna Forest Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Makna Forest, ALL)}"
   },
@@ -2187,7 +2187,7 @@
     "name": "Makna Forest Collectopaedia Vegetable Completion",
     "region": "Makna Forest",
     "category": [
-      "Makna Forest Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Makna Forest Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Makna Forest, Vegetable)}"
   },
@@ -2195,7 +2195,7 @@
     "name": "Makna Forest Collectopaedia Fruit Completion",
     "region": "Makna Forest",
     "category": [
-      "Makna Forest Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Makna Forest Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Makna Forest, Fruit)}"
   },
@@ -2203,7 +2203,7 @@
     "name": "Makna Forest Collectopaedia Flower Completion",
     "region": "Makna Forest",
     "category": [
-      "Makna Forest Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Makna Forest Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Makna Forest, Flower)}"
   },
@@ -2211,7 +2211,7 @@
     "name": "Makna Forest Collectopaedia Animal Completion",
     "region": "Makna Forest",
     "category": [
-      "Makna Forest Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Makna Forest Collectopaedia","Collectopaedia"
     ],
   "requires": "{collectopaediaComplete(Makna Forest, Animal)}"
   },
@@ -2219,7 +2219,7 @@
     "name": "Makna Forest Collectopaedia Bug Completion",
     "region": "Makna Forest",
     "category": [
-      "Makna Forest Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Makna Forest Collectopaedia","Collectopaedia"
     ],
   "requires": "{collectopaediaComplete(Makna Forest, Bug)}"
   },
@@ -2227,7 +2227,7 @@
     "name": "Makna Forest Collectopaedia Strange Completion",
     "region": "Makna Forest",
     "category": [
-      "Makna Forest Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Makna Forest Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Makna Forest, Strange)}"
   },
@@ -2598,7 +2598,7 @@
     "name": "Frontier Village Collectopaedia Page Completion",
     "region": "Frontier Village",
     "category": [
-      "Frontier Village Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Frontier Village Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Frontier Village, ALL)}"
   },
@@ -2606,7 +2606,7 @@
     "name": "Frontier Village Collectopaedia Fruit Completion",
     "region": "Frontier Village",
     "category": [
-      "Frontier Village Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Frontier Village Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Frontier Village, Fruit)}"
   },
@@ -2614,7 +2614,7 @@
     "name": "Frontier Village Collectopaedia Bug Completion",
     "region": "Frontier Village",
     "category": [
-      "Frontier Village Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Frontier Village Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Frontier Village, Bug)}"
   },
@@ -2622,7 +2622,7 @@
     "name": "Frontier Village Collectopaedia Strange Completion",
     "region": "Frontier Village",
     "category": [
-      "Frontier Village Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Frontier Village Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Frontier Village, Strange)}"
   },
@@ -2893,7 +2893,7 @@
     "name": "Eryth Sea Collectopaedia Page Completion",
     "region": "Eryth Sea",
     "category": [
-      "Eryth Sea Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Eryth Sea Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Eryth Sea, ALL)}"
   },
@@ -2901,7 +2901,7 @@
     "name": "Eryth Sea Collectopaedia Vegetable Completion",
     "region": "Eryth Sea",
     "category": [
-      "Eryth Sea Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Eryth Sea Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Eryth Sea, Vegetable)}"
   },
@@ -2909,7 +2909,7 @@
     "name": "Eryth Sea Collectopaedia Flower Completion",
     "region": "Eryth Sea",
     "category": [
-      "Eryth Sea Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Eryth Sea Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Eryth Sea, Flower)}"
   },
@@ -2917,7 +2917,7 @@
     "name": "Eryth Sea Collectopaedia Animal Completion",
     "region": "Eryth Sea",
     "category": [
-      "Eryth Sea Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Eryth Sea Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Eryth Sea, Animal)}"
   },
@@ -2925,7 +2925,7 @@
     "name": "Eryth Sea Collectopaedia Nature Completion",
     "region": "Eryth Sea",
     "category": [
-      "Eryth Sea Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Eryth Sea Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Eryth Sea, Nature)}"
   },
@@ -2933,7 +2933,7 @@
     "name": "Eryth Sea Collectopaedia Strange Completion",
     "region": "Eryth Sea",
     "category": [
-      "Eryth Sea Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Eryth Sea Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Eryth Sea, Strange)}"
   },
@@ -3311,7 +3311,7 @@
     "name": "Alcamoth Collectopaedia Page Completion",
     "region": "Alcamoth",
     "category": [
-      "Alcamoth Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Alcamoth Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Alcamoth, ALL)}"
   },
@@ -3319,7 +3319,7 @@
     "name": "Alcamoth Collectopaedia Fruit Completion",
     "region": "Alcamoth",
     "category": [
-      "Alcamoth Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Alcamoth Collectopaedia","Collectopaedia"
     ],
   "requires": "{collectopaediaComplete(Alcamoth, Fruit)}"
   },
@@ -3327,7 +3327,7 @@
     "name": "Alcamoth Collectopaedia Flower Completion",
     "region": "Alcamoth",
     "category": [
-      "Alcamoth Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Alcamoth Collectopaedia","Collectopaedia"
     ],
   "requires": "{collectopaediaComplete(Alcamoth, Flower)}"
   },
@@ -3335,7 +3335,7 @@
     "name": "Alcamoth Collectopaedia Strange Completion",
     "region": "Alcamoth",
     "category": [
-      "Alcamoth Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Alcamoth Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Alcamoth, Strange)}"
   },
@@ -3431,7 +3431,7 @@
     "name": "High Entia Tomb Collectopaedia Page Completion",
     "region": "High Entia Tomb",
     "category": [
-      "High Entia Tomb Collectopaedia","Collectopaedia","collectopaediasanity"
+      "High Entia Tomb Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(High Entia Tomb, ALL)}"
   },
@@ -3439,7 +3439,7 @@
     "name": "High Entia Tomb Collectopaedia Bug Completion",
     "region": "High Entia Tomb",
     "category": [
-      "High Entia Tomb Collectopaedia","Collectopaedia","collectopaediasanity"
+      "High Entia Tomb Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(High Entia Tomb, Bug)}"
   },
@@ -3447,7 +3447,7 @@
     "name": "High Entia Tomb Collectopaedia Part Completion",
     "region": "High Entia Tomb",
     "category": [
-      "High Entia Tomb Collectopaedia","Collectopaedia","collectopaediasanity"
+      "High Entia Tomb Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(High Entia Tomb, Part)}"
   },
@@ -3455,7 +3455,7 @@
     "name": "High Entia Tomb Collectopaedia Strange Completion",
     "region": "High Entia Tomb",
     "category": [
-      "High Entia Tomb Collectopaedia","Collectopaedia","collectopaediasanity"
+      "High Entia Tomb Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(High Entia Tomb, Strange)}"
   },
@@ -3753,7 +3753,7 @@
     "name": "Valak Mountain Collectopaedia Page Completion",
     "region": "Valak Mountain",
     "category": [
-      "Valak Mountain Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Valak Mountain Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Valak Mountain, ALL)}"
   },
@@ -3761,7 +3761,7 @@
     "name": "Valak Mountain Collectopaedia Vegetable Completion",
     "region": "Valak Mountain",
     "category": [
-      "Valak Mountain Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Valak Mountain Collectopaedia","Collectopaedia"
     ],
   "requires": "{collectopaediaComplete(Valak Mountain, Vegetable)}"
   },
@@ -3769,7 +3769,7 @@
     "name": "Valak Mountain Collectopaedia Fruit Completion",
     "region": "Valak Mountain",
     "category": [
-      "Valak Mountain Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Valak Mountain Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Valak Mountain, Fruit)}"
   },
@@ -3777,7 +3777,7 @@
     "name": "Valak Mountain Collectopaedia Flower Completion",
     "region": "Valak Mountain",
     "category": [
-      "Valak Mountain Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Valak Mountain Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Valak Mountain, Flower)}"
   },
@@ -3785,7 +3785,7 @@
     "name": "Valak Mountain Collectopaedia Animal Completion",
     "region": "Valak Mountain",
     "category": [
-      "Valak Mountain Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Valak Mountain Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Valak Mountain, Animal)}"
   },
@@ -3793,7 +3793,7 @@
     "name": "Valak Mountain Collectopaedia Nature Completion",
     "region": "Valak Mountain",
     "category": [
-      "Valak Mountain Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Valak Mountain Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Valak Mountain, Nature)}"
   },
@@ -3801,7 +3801,7 @@
     "name": "Valak Mountain Collectopaedia Strange Completion",
     "region": "Valak Mountain",
     "category": [
-      "Valak Mountain Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Valak Mountain Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Valak Mountain, Strange)}"
   },
@@ -3950,7 +3950,7 @@
     "name": "Sword Valley Collectopaedia Page Completion",
     "region": "Sword Valley (MISSABLE)",
     "category": [
-      "Sword Valley Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Sword Valley Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Sword Valley, ALL)}"
   },
@@ -3958,7 +3958,7 @@
     "name": "Sword Valley Collectopaedia Vegetable Completion",
     "region": "Sword Valley (MISSABLE)",
     "category": [
-      "Sword Valley Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Sword Valley Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Sword Valley, Vegetable)}"
   },
@@ -3966,7 +3966,7 @@
     "name": "Sword Valley Collectopaedia Fruit Completion",
     "region": "Sword Valley (MISSABLE)",
     "category": [
-      "Sword Valley Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Sword Valley Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Sword Valley, Fruit)}"
   },
@@ -3974,7 +3974,7 @@
     "name": "Sword Valley Collectopaedia Flower Completion",
     "region": "Sword Valley (MISSABLE)",
     "category": [
-      "Sword Valley Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Sword Valley Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Sword Valley, Flower)}"
   },
@@ -3982,7 +3982,7 @@
     "name": "Sword Valley Collectopaedia Part Completion",
     "region": "Sword Valley (MISSABLE)",
     "category": [
-      "Sword Valley Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Sword Valley Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Sword Valley, Part)}"
   },
@@ -3990,7 +3990,7 @@
     "name": "Sword Valley Collectopaedia Strange Completion",
     "region": "Sword Valley (MISSABLE)",
     "category": [
-      "Sword Valley Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Sword Valley Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Sword Valley, Strange)}"
   },
@@ -4064,7 +4064,7 @@
     "name": "Galahad Fortress Collectopaedia Page Completion",
     "region": "Galahad Fortress (MISSABLE)",
     "category": [
-      "Galahad Fortress Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Galahad Fortress Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Galahad Fortress, ALL)}"
   },
@@ -4072,7 +4072,7 @@
     "name": "Galahad Fortress Collectopaedia Bug Completion",
     "region": "Galahad Fortress (MISSABLE)",
     "category": [
-      "Galahad Fortress Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Galahad Fortress Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Galahad Fortress, Bug)}"
   },
@@ -4080,7 +4080,7 @@
     "name": "Galahad Fortress Collectopaedia Part Completion",
     "region": "Galahad Fortress (MISSABLE)",
     "category": [
-      "Galahad Fortress Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Galahad Fortress Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Galahad Fortress, Part)}"
   },
@@ -4088,7 +4088,7 @@
     "name": "Galahad Fortress Collectopaedia Strange Completion",
     "region": "Galahad Fortress (MISSABLE)",
     "category": [
-      "Galahad Fortress Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Galahad Fortress Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Galahad Fortress, Strange)}"
   },
@@ -4426,7 +4426,7 @@
     "name": "Fallen Arm Collectopaedia Page Completion",
     "region": "Fallen Arm",
     "category": [
-      "Fallen Arm Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Fallen Arm Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Fallen Arm, ALL)}"
   },
@@ -4434,7 +4434,7 @@
     "name": "Fallen Arm Collectopaedia Vegetable Completion",
     "region": "Fallen Arm",
     "category": [
-      "Fallen Arm Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Fallen Arm Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Fallen Arm, Vegetable)}"
   },
@@ -4442,7 +4442,7 @@
     "name": "Fallen Arm Collectopaedia Fruit Completion",
     "region": "Fallen Arm",
     "category": [
-      "Fallen Arm Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Fallen Arm Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Fallen Arm, Fruit)}"
   },
@@ -4450,7 +4450,7 @@
     "name": "Fallen Arm Collectopaedia Animal Completion",
     "region": "Fallen Arm",
     "category": [
-      "Fallen Arm Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Fallen Arm Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Fallen Arm, Animal)}"
   },
@@ -4458,7 +4458,7 @@
     "name": "Fallen Arm Collectopaedia Nature Completion",
     "region": "Fallen Arm",
     "category": [
-      "Fallen Arm Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Fallen Arm Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Fallen Arm, Nature)}"
   },
@@ -4466,7 +4466,7 @@
     "name": "Fallen Arm Collectopaedia Part Completion",
     "region": "Fallen Arm",
     "category": [
-      "Fallen Arm Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Fallen Arm Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Fallen Arm, Part)}"
   },
@@ -4474,7 +4474,7 @@
     "name": "Fallen Arm Collectopaedia Strange Completion",
     "region": "Fallen Arm",
     "category": [
-      "Fallen Arm Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Fallen Arm Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Fallen Arm, Strange)}"
   },
@@ -4613,7 +4613,7 @@
     "name": "Mechonis Field Collectopaedia Page Completion",
     "region": "Mechonis Field (MISSABLE)",
     "category": [
-      "Mechonis Field Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Mechonis Field Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Mechonis Field, ALL)}"
   },
@@ -4621,7 +4621,7 @@
     "name": "Mechonis Field Collectopaedia Vegetable Completion",
     "region": "Mechonis Field (MISSABLE)",
     "category": [
-      "Mechonis Field Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Mechonis Field Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Mechonis Field, Vegetable)}"
   },
@@ -4629,7 +4629,7 @@
     "name": "Mechonis Field Collectopaedia Flower Completion",
     "region": "Mechonis Field (MISSABLE)",
     "category": [
-      "Mechonis Field Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Mechonis Field Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Mechonis Field, Flower)}"
   },
@@ -4637,7 +4637,7 @@
     "name": "Mechonis Field Collectopaedia Bug Completion",
     "region": "Mechonis Field (MISSABLE)",
     "category": [
-      "Mechonis Field Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Mechonis Field Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Mechonis Field, Bug)}"
   },
@@ -4645,7 +4645,7 @@
     "name": "Mechonis Field Collectopaedia Nature Completion",
     "region": "Mechonis Field (MISSABLE)",
     "category": [
-      "Mechonis Field Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Mechonis Field Collectopaedia","Collectopaedia"
     ],
   "requires": "{collectopaediaComplete(Mechonis Field, Nature)}"
   },
@@ -4653,7 +4653,7 @@
     "name": "Mechonis Field Collectopaedia Part Completion",
     "region": "Mechonis Field (MISSABLE)",
     "category": [
-      "Mechonis Field Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Mechonis Field Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Mechonis Field, Part)}"
   },
@@ -4661,7 +4661,7 @@
     "name": "Mechonis Field Collectopaedia Strange Completion",
     "region": "Mechonis Field (MISSABLE)",
     "category": [
-      "Mechonis Field Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Mechonis Field Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Mechonis Field, Strange)}"
   },
@@ -4811,7 +4811,7 @@
     "name": "Central Factory Collectopaedia Page Completion",
     "region": "Central Factory (MISSABLE)",
     "category": [
-      "Central Factory Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Central Factory Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Central Factory, ALL)}"
   },
@@ -4819,7 +4819,7 @@
     "name": "Central Factory Collectopaedia Vegetable Completion",
     "region": "Central Factory (MISSABLE)",
     "category": [
-      "Central Factory Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Central Factory Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Central Factory, Vegetable)}"
   },
@@ -4827,7 +4827,7 @@
     "name": "Central Factory Collectopaedia Animal Completion",
     "region": "Central Factory (MISSABLE)",
     "category": [
-      "Central Factory Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Central Factory Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Central Factory, Animal)}"
   },
@@ -4835,7 +4835,7 @@
     "name": "Central Factory Collectopaedia Bug Completion",
     "region": "Central Factory (MISSABLE)",
     "category": [
-      "Central Factory Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Central Factory Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Central Factory, Bug)}"
   },
@@ -4843,7 +4843,7 @@
     "name": "Central Factory Collectopaedia Nature Completion",
     "region": "Central Factory (MISSABLE)",
     "category": [
-      "Central Factory Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Central Factory Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Central Factory, Nature)}"
   },
@@ -4851,7 +4851,7 @@
     "name": "Central Factory Collectopaedia Part Completion",
     "region": "Central Factory (MISSABLE)",
     "category": [
-      "Central Factory Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Central Factory Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Central Factory, Part)}"
   },
@@ -4859,7 +4859,7 @@
     "name": "Central Factory Collectopaedia Strange Completion",
     "region": "Central Factory (MISSABLE)",
     "category": [
-      "Central Factory Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Central Factory Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Central Factory, Strange)}"
   },
@@ -5022,7 +5022,7 @@
     "name": "Agniratha Collectopaedia Page Completion",
     "region": "Agniratha (MISSABLE)",
     "category": [
-      "Agniratha Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Agniratha Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Agniratha, ALL)}"
   },
@@ -5030,7 +5030,7 @@
     "name": "Agniratha Collectopaedia Fruit Completion",
     "region": "Agniratha (MISSABLE)",
     "category": [
-      "Agniratha Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Agniratha Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Agniratha, Fruit)}"
   },
@@ -5038,7 +5038,7 @@
     "name": "Agniratha Collectopaedia Flower Completion",
     "region": "Agniratha (MISSABLE)",
     "category": [
-      "Agniratha Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Agniratha Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Agniratha, Flower)}"
   },
@@ -5046,7 +5046,7 @@
     "name": "Agniratha Collectopaedia Bug Completion",
     "region": "Agniratha (MISSABLE)",
     "category": [
-      "Agniratha Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Agniratha Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Agniratha, Bug)}"
   },
@@ -5054,7 +5054,7 @@
     "name": "Agniratha Collectopaedia Nature Completion",
     "region": "Agniratha (MISSABLE)",
     "category": [
-      "Agniratha Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Agniratha Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Agniratha, Nature)}"
   },
@@ -5062,7 +5062,7 @@
     "name": "Agniratha Collectopaedia Part Completion",
     "region": "Agniratha (MISSABLE)",
     "category": [
-      "Agniratha Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Agniratha Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Agniratha, Part)}"
   },
@@ -5070,7 +5070,7 @@
     "name": "Agniratha Collectopaedia Strange Completion",
     "region": "Agniratha (MISSABLE)",
     "category": [
-      "Agniratha Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Agniratha Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Agniratha, Strange)}"
   },
@@ -5207,7 +5207,7 @@
     "name": "Bionis' Interior Collectopaedia Page Completion",
     "region": "Bionis' Interior (2nd Visit)",
     "category": [
-      "Bionis' Interior Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Bionis' Interior Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Bionis' Interior, ALL)}"
   },
@@ -5215,7 +5215,7 @@
     "name": "Bionis' Interior Collectopaedia Vegetable Completion",
     "region": "Bionis' Interior (2nd Visit)",
     "category": [
-      "Bionis' Interior Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Bionis' Interior Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Bionis' Interior, Vegetable)}"
   },
@@ -5223,7 +5223,7 @@
     "name": "Bionis' Interior Collectopaedia Animal Completion",
     "region": "Bionis' Interior (2nd Visit)",
     "category": [
-      "Bionis' Interior Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Bionis' Interior Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Bionis' Interior, Animal)}"
   },
@@ -5231,7 +5231,7 @@
     "name": "Bionis' Interior Collectopaedia Strange Completion",
     "region": "Bionis' Interior (2nd Visit)",
     "category": [
-      "Bionis' Interior Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Bionis' Interior Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Bionis' Interior, Strange)}"
   },
@@ -5482,7 +5482,7 @@
     "name": "Tephra Cave Collectopaedia Strange Completion",
     "region": "Tephra Cave",
     "category": [
-      "Tephra Cave Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Tephra Cave Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Tephra Cave, Strange)}"
   },
@@ -5490,7 +5490,7 @@
     "name": "Prison Island Collectopaedia Page Completion",
     "region": "Prison Island (2nd Visit)",
     "category": [
-      "Prison Island Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Prison Island Collectopaedia","Collectopaedia"
     ],
   "requires": "{collectopaediaComplete(Prison Island, ALL)}"
   },
@@ -5498,7 +5498,7 @@
     "name": "Prison Island Collectopaedia Fruit Completion",
     "region": "Prison Island (2nd Visit)",
     "category": [
-      "Prison Island Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Prison Island Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Prison Island, Fruit)}"
   },
@@ -5506,7 +5506,7 @@
     "name": "Prison Island Collectopaedia Animal Completion",
     "region": "Prison Island (2nd Visit)",
     "category": [
-      "Prison Island Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Prison Island Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Prison Island, Animal)}"
   },
@@ -5514,7 +5514,7 @@
     "name": "Prison Island Collectopaedia Bug Completion",
     "region": "Prison Island (2nd Visit)",
     "category": [
-      "Prison Island Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Prison Island Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Prison Island, Bug)}"
   },
@@ -5522,7 +5522,7 @@
     "name": "Prison Island Collectopaedia Nature Completion",
     "region": "Prison Island (2nd Visit)",
     "category": [
-      "Prison Island Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Prison Island Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Prison Island, Nature)}"
   },
@@ -5530,7 +5530,7 @@
     "name": "Prison Island Collectopaedia Part Completion",
     "region": "Prison Island (2nd Visit)",
     "category": [
-      "Prison Island Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Prison Island Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Prison Island, Part)}"
   },
@@ -5538,7 +5538,7 @@
     "name": "Prison Island Collectopaedia Strange Completion",
     "region": "Prison Island (2nd Visit)",
     "category": [
-      "Prison Island Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Prison Island Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Prison Island, Strange)}"
   },
@@ -11653,7 +11653,7 @@
     "name": "Other Collectopaedia Page Completion",
     "region": "Mechonis Core",
     "category": [
-      "Other Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Other Collectopaedia","Collectopaedia"
     ],
   "requires": "{collectopaediaComplete(Other, ALL)}"
   },
@@ -11661,7 +11661,7 @@
     "name": "Other Collectopaedia Bug Completion",
     "region": "Mechonis Core",
     "category": [
-      "Other Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Other Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Other, Bug)}"
   },
@@ -11669,7 +11669,7 @@
     "name": "Other Collectopaedia Part Completion",
     "region": "Mechonis Core",
     "category": [
-      "Other Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Other Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Other, Part)}"
   },
@@ -11677,7 +11677,7 @@
     "name": "Other Collectopaedia Strange Completion",
     "region": "Mechonis Core",
     "category": [
-      "Other Collectopaedia","Collectopaedia","collectopaediasanity"
+      "Other Collectopaedia","Collectopaedia"
     ],
     "requires": "{collectopaediaComplete(Other, Strange)}"
   },
@@ -11686,7 +11686,7 @@
     "region": "Prison Island (2nd Visit)",
     "victory": true,
     "category": [
-      "CollectorGoal","collectopaediasanity"
+      "CollectorGoal"
     ],
     "requires": "({YamlDisabled(collectopaediasanity)} AND |@Collectopaedia Pages:ALL|) OR ({YamlEnabled(collectopaediasanity)} AND |@Collectopaediasanity:ALL|)"
   },
