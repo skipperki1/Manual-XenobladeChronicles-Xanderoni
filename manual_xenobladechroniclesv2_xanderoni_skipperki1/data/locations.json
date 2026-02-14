@@ -1236,7 +1236,7 @@
     ]
   },
   {
-    "name": "Main Entrance (Ether Mine)",
+    "name": "Main Entrance (Colony 6)",
     "region": "Ether Mine",
     "category": [
       "Colony 6 Landmarks","landmarks"
@@ -6618,6 +6618,14 @@
   },
   {
     "name": "Zazadan in Danger",
+    "region": "Satorl Marsh",
+    "category": [
+      "Satorl Marsh Quests","AffinityQuests"
+    ],
+    "requires": "|Progressive Hunting License:6|"
+  },
+  {
+    "name": "Zazadan Still in Danger",
     "region": "Satorl Marsh",
     "category": [
       "Satorl Marsh Quests","AffinityQuests"
