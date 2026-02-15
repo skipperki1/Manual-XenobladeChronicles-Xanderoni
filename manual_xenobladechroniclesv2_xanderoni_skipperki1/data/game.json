@@ -3,5 +3,7 @@
   "game": "XenobladeChroniclesv2",
   "creator": "Xanderoni_skipperki1",
   "filler_item_name": "Lobster",
-  "starting_items": []
+  "starting_items": [],
+  "death_link": true,
+  "starting_index": 1
 }
