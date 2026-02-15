@@ -44,6 +44,10 @@ def before_generate_early(world: World, multiworld: MultiWorld, player: int) -> 
     This is the earliest hook called during generation, before anything else is done.
     Use it to check or modify incompatible options, or to set up variables for later use.
     """
+    if world.options.Collectopaedia == False and world.options.collectopaediasanity == True:
+        raise OptionError(
+            "When Collectopaediasanity is set to True, Collectopaedia must also be set to True"
+        )
     pass
 
 # Called before regions and locations are created. Not clear why you'd want this, but it's here. Victory location is included, but Victory event is not placed yet.
@@ -180,10 +184,7 @@ def after_create_item(item: ManualItem, world: World, multiworld: MultiWorld, pl
 
 # This method is run towards the end of pre-generation, before the place_item options have been handled and before AP generation occurs
 def before_generate_basic(world: World, multiworld: MultiWorld, player: int):
-    if world.options.Collectopaedia == False and world.options.collectopaediasanity == True:
-        raise OptionError(
-            "When Collectopaediasanity is set to True, Collectopaedia must also be set to True"
-        )
+    pass
 
 # This method is run at the very end of pre-generation, once the place_item options have been handled and before AP generation occurs
 def after_generate_basic(world: World, multiworld: MultiWorld, player: int):
