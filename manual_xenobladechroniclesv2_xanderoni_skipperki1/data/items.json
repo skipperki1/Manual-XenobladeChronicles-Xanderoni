@@ -5,9 +5,7 @@
     "category": [
       "Area Keys"
     ],
-    "progression": true,
-    "local": true,
-    "early": true
+    "progression": true
   },
   {
     "count": 2,
@@ -1255,9 +1253,7 @@
     "category": [
       "Hunting Licenses"
     ],
-    "progression": true,
-    "local": 3,
-    "early": 3
+    "progression": true
   },
   {
     "count": 20,
@@ -1273,9 +1269,7 @@
     "category": [
       "Collectopaedia Pages"
     ],
-    "progression": true,
-    "local": 2,
-    "early": 2
+    "progression": true
   },
   {
     "count": 11,
@@ -1283,9 +1277,7 @@
     "category": [
       "Collectopaedia Pages"
     ],
-    "progression": true,
-    "local": 2,
-    "early": 2
+    "progression": true
   },
   {
     "count": 11,
@@ -1293,9 +1285,7 @@
     "category": [
       "Collectopaedia Pages"
     ],
-    "progression": true,
-    "local": 2,
-    "early": 2
+    "progression": true
   },
   {
     "count": 11,
@@ -1303,9 +1293,7 @@
     "category": [
       "Collectopaedia Pages"
     ],
-    "progression": true,
-    "local": 2,
-    "early": 2
+    "progression": true
   },
   {
     "count": 13,
@@ -1313,9 +1301,7 @@
     "category": [
       "Collectopaedia Pages"
     ],
-    "progression": true,
-    "local": 3,
-    "early": 3
+    "progression": true
   },
   {
     "count": 11,
@@ -1323,9 +1309,7 @@
     "category": [
       "Collectopaedia Pages"
     ],
-    "progression": true,
-    "local": 2,
-    "early": 2
+    "progression": true
   },
   {
     "count": 13,
@@ -1333,9 +1317,7 @@
     "category": [
       "Collectopaedia Pages"
     ],
-    "progression": true,
-    "local": 2,
-    "early": 2
+    "progression": true
   },
   {
     "count": 21,
@@ -1343,9 +1325,7 @@
     "category": [
       "Collectopaedia Pages"
     ],
-    "progression": true,
-    "local": 3,
-    "early": 3
+    "progression": true
   },
   {
     "count": 1,
@@ -1353,9 +1333,7 @@
     "category": [
       "Area Keys"
     ],
-    "progression": true,
-    "local": true,
-    "early": true
+    "progression": true
   },
   {
     "count": 1,
@@ -1363,9 +1341,7 @@
     "category": [
       "Area Keys"
     ],
-    "progression": true,
-    "local": true,
-    "early": true
+    "progression": true
   },
   {
     "count": 1,
@@ -1373,9 +1349,7 @@
     "category": [
       "Area Keys"
     ],
-    "progression": true,
-    "local": true,
-    "early": true
+    "progression": true
   },
   {
     "count": 1,
@@ -1383,9 +1357,7 @@
     "category": [
       "Area Keys"
     ],
-    "progression": true,
-    "local": true,
-    "early": true
+    "progression": true
   },
   {
     "count": 1,
