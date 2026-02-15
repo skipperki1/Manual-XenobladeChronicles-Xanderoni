@@ -2,6 +2,7 @@
 from worlds.AutoWorld import World
 from BaseClasses import MultiWorld, CollectionState, Item
 from Options import OptionError
+from .Collectopaedia import COLLECTOPAEDIA_REQUIREMENTS, COLLECTOPAEDIA_LOCATIONS, PAGE_REQUIREMENTS
 
 # Object classes from Manual -- extending AP core -- representing items and locations that are used in generation
 from ..Items import ManualItem
@@ -101,179 +102,49 @@ def after_create_items(item_pool: list, world: World, multiworld: MultiWorld, pl
 def before_set_rules(world: World, multiworld: MultiWorld, player: int):
     pass
 
-CollectopaediaRequirements = {
-    "Colony 9":         { "Vegetable": 1,  "Flower": 1,  "Fruit": 1,  "Animal": 0,  "Bug": 1,  "Nature": 0,  "Part": 1,  "Strange": 1 },
-    "Tephra Cave":      { "Vegetable": 0,  "Flower": 2,  "Fruit": 2,  "Animal": 1,  "Bug": 2,  "Nature": 1,  "Part": 0,  "Strange": 2 },
-    "Bionis' Leg":      { "Vegetable": 2,  "Flower": 0,  "Fruit": 3,  "Animal": 0,  "Bug": 3,  "Nature": 2,  "Part": 2,  "Strange": 3 },
-    "Colony 6":         { "Vegetable": 0,  "Flower": 3,  "Fruit": 0,  "Animal": 2,  "Bug": 0,  "Nature": 0,  "Part": 0,  "Strange": 4 },
-    "Ether Mine":       { "Vegetable": 0,  "Flower": 0,  "Fruit": 0,  "Animal": 3,  "Bug": 4,  "Nature": 3,  "Part": 3,  "Strange": 5 },
-    "Satorl Marsh":     { "Vegetable": 3,  "Flower": 4,  "Fruit": 0,  "Animal": 4,  "Bug": 0,  "Nature": 4,  "Part": 4,  "Strange": 6 },
-    "Bionis' Interior": { "Vegetable": 4,  "Flower": 0,  "Fruit": 0,  "Animal": 5,  "Bug": 0,  "Nature": 0,  "Part": 0,  "Strange": 7 },
-    "Makna Forest":     { "Vegetable": 5,  "Flower": 5,  "Fruit": 4,  "Animal": 6,  "Bug": 5,  "Nature": 0,  "Part": 0,  "Strange": 8 },
-    "Frontier Village": { "Vegetable": 0,  "Flower": 0,  "Fruit": 5,  "Animal": 0,  "Bug": 6,  "Nature": 0,  "Part": 0,  "Strange": 9 },
-    "Eryth Sea":        { "Vegetable": 6,  "Flower": 6,  "Fruit": 0,  "Animal": 7,  "Bug": 0,  "Nature": 5,  "Part": 0,  "Strange": 10 },
-    "Alcamoth":         { "Vegetable": 0,  "Flower": 7,  "Fruit": 6,  "Animal": 0,  "Bug": 0,  "Nature": 0,  "Part": 0,  "Strange": 11 },
-    "High Entia Tomb":  { "Vegetable": 0,  "Flower": 0,  "Fruit": 0,  "Animal": 0,  "Bug": 7,  "Nature": 0,  "Part": 5,  "Strange": 12 },
-    "Valak Mountain":   { "Vegetable": 7,  "Flower": 8,  "Fruit": 7,  "Animal": 8,  "Bug": 0,  "Nature": 6,  "Part": 0,  "Strange": 13 },
-    "Sword Valley":     { "Vegetable": 8,  "Flower": 9,  "Fruit": 8,  "Animal": 0,  "Bug": 0,  "Nature": 0,  "Part": 6,  "Strange": 14 },
-    "Galahad Fortress": { "Vegetable": 0,  "Flower": 0,  "Fruit": 0,  "Animal": 0,  "Bug": 8,  "Nature": 0,  "Part": 7,  "Strange": 15 },
-    "Fallen Arm":       { "Vegetable": 9,  "Flower": 0,  "Fruit": 9,  "Animal": 9,  "Bug": 0,  "Nature": 7,  "Part": 8,  "Strange": 16 },
-    "Mechonis Field":   { "Vegetable": 10, "Flower": 10, "Fruit": 0,  "Animal": 0,  "Bug": 9,  "Nature": 8,  "Part": 9,  "Strange": 17 },
-    "Central Factory":  { "Vegetable": 11, "Flower": 0,  "Fruit": 0,  "Animal": 10, "Bug": 10, "Nature": 9,  "Part": 10, "Strange": 18 },
-    "Agniratha":        { "Vegetable": 0,  "Flower": 11, "Fruit": 10, "Animal": 0,  "Bug": 11, "Nature": 10, "Part": 11, "Strange": 19 },
-    "Prison Island":    { "Vegetable": 0,  "Flower": 0,  "Fruit": 11, "Animal": 11, "Bug": 12, "Nature": 11, "Part": 12, "Strange": 20 },
-    "Other":            { "Vegetable": 0,  "Flower": 0,  "Fruit": 0,  "Animal": 0,  "Bug": 13, "Nature": 0,  "Part": 13, "Strange": 21 },
-}
+CollectopaediaCache = []
 
-COLLECTOPAEDIA_LOCATIONS = [
-    { "name": "Colony 9 Collectopaedia Page Completion", "area": "Colony 9", "cat": "ALL" },
-    { "name": "Colony 9 Collectopaedia Vegetable Completion", "area": "Colony 9", "cat": "Vegetable" },
-    { "name": "Colony 9 Collectopaedia Flower Completion", "area": "Colony 9", "cat": "Flower" },
-    { "name": "Colony 9 Collectopaedia Fruit Completion", "area": "Colony 9", "cat": "Fruit" },
-    { "name": "Colony 9 Collectopaedia Bug Completion", "area": "Colony 9", "cat": "Bug" },
-    { "name": "Colony 9 Collectopaedia Part Completion", "area": "Colony 9", "cat": "Part" },
-    { "name": "Colony 9 Collectopaedia Strange Completion", "area": "Colony 9", "cat": "Strange" },
-    { "name": "Tephra Cave Collectopaedia Page Complete", "area": "Tephra Cave", "cat": "ALL" },
-    { "name": "Tephra Cave Collectopaedia Flower Completion", "area": "Tephra Cave", "cat": "Flower" },
-    { "name": "Tephra Cave Collectopaedia Fruit Completion", "area": "Tephra Cave", "cat": "Fruit" },
-    { "name": "Tephra Cave Collectopaedia Animal Completion", "area": "Tephra Cave", "cat": "Animal" },
-    { "name": "Tephra Cave Collectopaedia Bug Completion", "area": "Tephra Cave", "cat": "Bug" },
-    { "name": "Tephra Cave Collectopaedia Nature Completion", "area": "Tephra Cave", "cat": "Nature" },
-    { "name": "Tephra Cave Collectopaedia Strange Completion", "area": "Tephra Cave", "cat": "Strange" },
-    { "name": "Bionis' Leg Collectopaedia Page Completion", "area": "Bionis' Leg", "cat": "ALL" },
-    { "name": "Bionis' Leg Collectopaedia Vegetable Completion", "area": "Bionis' Leg", "cat": "Vegetable" },
-    { "name": "Bionis' Leg Collectopaedia Fruit Completion", "area": "Bionis' Leg", "cat": "Fruit" },
-    { "name": "Bionis' Leg Collectopaedia Bug Completion", "area": "Bionis' Leg", "cat": "Bug" },
-    { "name": "Bionis' Leg Collectopaedia Nature Completion", "area": "Bionis' Leg", "cat": "Nature" },
-    { "name": "Bionis' Leg Collectopaedia Part Completion", "area": "Bionis' Leg", "cat": "Part" },
-    { "name": "Bionis' Leg Collectopaedia Strange Completion", "area": "Bionis' Leg", "cat": "Strange" },
-    { "name": "Colony 6 Collectopaedia Page Completion", "area": "Colony 6", "cat": "ALL" },
-    { "name": "Colony 6 Collectopaedia Flower Completion", "area": "Colony 6", "cat": "Flower" },
-    { "name": "Colony 6 Collectopaedia Animal Completion", "area": "Colony 6", "cat": "Animal" },
-    { "name": "Colony 6 Collectopaedia Strange Completion", "area": "Colony 6", "cat": "Strange" },
-    { "name": "Ether Mine Collectopaedia Page Completion", "area": "Ether Mine", "cat": "ALL" },
-    { "name": "Ether Mine Collectopaedia Animal Completion", "area": "Ether Mine", "cat": "Animal" },
-    { "name": "Ether Mine Collectopaedia Bug Completion", "area": "Ether Mine", "cat": "Bug" },
-    { "name": "Ether Mine Collectopaedia Nature Completion", "area": "Ether Mine", "cat": "Nature" },
-    { "name": "Ether Mine Collectopaedia Parts Completion", "area": "Ether Mine", "cat": "Part" },
-    { "name": "Ether Mine Collectopaedia Strange Completion", "area": "Ether Mine", "cat": "Strange" },
-    { "name": "Satorl Marsh Collectopaedia Page Completion", "area": "Satorl Marsh", "cat": "ALL" },
-    { "name": "Satorl Marsh Collectopaedia Vegetable Completion", "area": "Satorl Marsh", "cat": "Vegetable" },
-    { "name": "Satorl Marsh Collectopaedia Flower Completion", "area": "Satorl Marsh", "cat": "Flower" },
-    { "name": "Satorl Marsh Collectopaedia Animal Completion", "area": "Satorl Marsh", "cat": "Animal" },
-    { "name": "Satorl Marsh Collectopaedia Nature Completion", "area": "Satorl Marsh", "cat": "Nature" },
-    { "name": "Satorl Marsh Collectopaedia Parts Completion", "area": "Satorl Marsh", "cat": "Part" },
-    { "name": "Satorl Marsh Collectopaedia Strange Completion", "area": "Satorl Marsh", "cat": "Strange" },
-    { "name": "Makna Forest Collectopaedia Page Completion", "area": "Makna Forest", "cat": "ALL" },
-    { "name": "Makna Forest Collectopaedia Vegetable Completion", "area": "Makna Forest", "cat": "Vegetable" },
-    { "name": "Makna Forest Collectopaedia Flower Completion", "area": "Makna Forest", "cat": "Flower" },
-    { "name": "Makna Forest Collectopaedia Fruit Completion", "area": "Makna Forest", "cat": "Fruit" },
-    { "name": "Makna Forest Collectopaedia Animal Completion", "area": "Makna Forest", "cat": "Animal" },
-    { "name": "Makna Forest Collectopaedia Bug Completion", "area": "Makna Forest", "cat": "Bug" },
-    { "name": "Makna Forest Collectopaedia Strange Completion", "area": "Makna Forest", "cat": "Strange" },
-    { "name": "Frontier Village Collectopaedia Page Completion", "area": "Frontier Village", "cat": "ALL" },
-    { "name": "Frontier Village Collectopaedia Fruit Completion", "area": "Frontier Village", "cat": "Fruit" },
-    { "name": "Frontier Village Collectopaedia Bug Completion", "area": "Frontier Village", "cat": "Bug" },
-    { "name": "Frontier Village Collectopaedia Strange Completion", "area": "Frontier Village", "cat": "Strange" },
-    { "name": "Eryth Sea Collectopaedia Page Completion", "area": "Eryth Sea", "cat": "ALL" },
-    { "name": "Eryth Sea Collectopaedia Vegetable Completion", "area": "Eryth Sea", "cat": "Vegetable" },
-    { "name": "Eryth Sea Collectopaedia Flower Completion", "area": "Eryth Sea", "cat": "Flower" },
-    { "name": "Eryth Sea Collectopaedia Animal Completion", "area": "Eryth Sea", "cat": "Animal" },
-    { "name": "Eryth Sea Collectopaedia Nature Completion", "area": "Eryth Sea", "cat": "Nature" },
-    { "name": "Eryth Sea Collectopaedia Strange Completion", "area": "Eryth Sea", "cat": "Strange" },
-    { "name": "Alcamoth Collectopaedia Page Completion", "area": "Alcamoth", "cat": "ALL" },
-    { "name": "Alcamoth Collectopaedia Flower Completion", "area": "Alcamoth", "cat": "Flower" },
-    { "name": "Alcamoth Collectopaedia Fruit Completion", "area": "Alcamoth", "cat": "Fruit" },
-    { "name": "Alcamoth Collectopaedia Strange Completion", "area": "Alcamoth", "cat": "Strange" },
-    { "name": "High Entia Tomb Collectopaedia Page Completion", "area": "High Entia Tomb", "cat": "ALL" },
-    { "name": "High Entia Tomb Collectopaedia Part Completion", "area": "High Entia Tomb", "cat": "Part" },
-    { "name": "High Entia Tomb Collectopaedia Bug Completion", "area": "High Entia Tomb", "cat": "Bug" },
-    { "name": "High Entia Tomb Collectopaedia Strange Completion", "area": "High Entia Tomb", "cat": "Strange" },
-    { "name": "Valak Mountain Collectopaedia Page Completion", "area": "Valak Mountain", "cat": "ALL" },
-    { "name": "Valak Mountain Collectopaedia Vegetable Completion", "area": "Valak Mountain", "cat": "Vegetable" },
-    { "name": "Valak Mountain Collectopaedia Flower Completion", "area": "Valak Mountain", "cat": "Flower" },
-    { "name": "Valak Mountain Collectopaedia Fruit Completion", "area": "Valak Mountain", "cat": "Fruit" },
-    { "name": "Valak Mountain Collectopaedia Animal Completion", "area": "Valak Mountain", "cat": "Animal" },
-    { "name": "Valak Mountain Collectopaedia Nature Completion", "area": "Valak Mountain", "cat": "Nature" },
-    { "name": "Valak Mountain Collectopaedia Strange Completion", "area": "Valak Mountain", "cat": "Strange" },
-    { "name": "Sword Valley Collectopaedia Page Completion", "area": "Sword Valley", "cat": "ALL" },
-    { "name": "Sword Valley Collectopaedia Flower Completion", "area": "Sword Valley", "cat": "Flower" },
-    { "name": "Sword Valley Collectopaedia Fruit Completion", "area": "Sword Valley", "cat": "Fruit" },
-    { "name": "Sword Valley Collectopaedia Vegetable Completion", "area": "Sword Valley", "cat": "Vegetable" },
-    { "name": "Sword Valley Collectopaedia Strange Completion", "area": "Sword Valley", "cat": "Strange" },
-    { "name": "Sword Valley Collectopaedia Part Completion", "area": "Sword Valley", "cat": "Part" },
-    { "name": "Galahad Fortress Collectopaedia Page Completion", "area": "Galahad Fortress", "cat": "ALL" },
-    { "name": "Galahad Fortress Collectopaedia Bug Completion", "area": "Galahad Fortress", "cat": "Bug" },
-    { "name": "Galahad Fortress Collectopaedia Part Completion", "area": "Galahad Fortress", "cat": "Part" },
-    { "name": "Galahad Fortress Collectopaedia Strange Completion", "area": "Galahad Fortress", "cat": "Strange" },
-    { "name": "Fallen Arm Collectopaedia Page Completion", "area": "Fallen Arm", "cat": "ALL" },
-    { "name": "Fallen Arm Collectopaedia Vegetable Completion", "area": "Fallen Arm", "cat": "Vegetable" },
-    { "name": "Fallen Arm Collectopaedia Fruit Completion", "area": "Fallen Arm", "cat": "Fruit" },
-    { "name": "Fallen Arm Collectopaedia Animal Completion", "area": "Fallen Arm", "cat": "Animal" },
-    { "name": "Fallen Arm Collectopaedia Nature Completion", "area": "Fallen Arm", "cat": "Nature" },
-    { "name": "Fallen Arm Collectopaedia Part Completion", "area": "Fallen Arm", "cat": "Part" },
-    { "name": "Fallen Arm Collectopaedia Strange Completion", "area": "Fallen Arm", "cat": "Strange" },
-    { "name": "Mechonis Field Collectopaedia Page Completion", "area": "Mechonis Field", "cat": "ALL" },
-    { "name": "Mechonis Field Collectopaedia Flower Completion", "area": "Mechonis Field", "cat": "Flower" },
-    { "name": "Mechonis Field Collectopaedia Vegetable Completion", "area": "Mechonis Field", "cat": "Vegetable" },
-    { "name": "Mechonis Field Collectopaedia Bug Completion", "area": "Mechonis Field", "cat": "Bug" },
-    { "name": "Mechonis Field Collectopaedia Nature Completion", "area": "Mechonis Field", "cat": "Nature" },
-    { "name": "Mechonis Field Collectopaedia Part Completion", "area": "Mechonis Field", "cat": "Part" },
-    { "name": "Mechonis Field Collectopaedia Strange Completion", "area": "Mechonis Field", "cat": "Strange" },
-    { "name": "Central Factory Collectopaedia Page Completion", "area": "Central Factory", "cat": "ALL" },
-    { "name": "Central Factory Collectopaedia Vegetable Completion", "area": "Central Factory", "cat": "Vegetable" },
-    { "name": "Central Factory Collectopaedia Animal Completion", "area": "Central Factory", "cat": "Animal" },
-    { "name": "Central Factory Collectopaedia Bug Completion", "area": "Central Factory", "cat": "Bug" },
-    { "name": "Central Factory Collectopaedia Nature Completion", "area": "Central Factory", "cat": "Nature" },
-    { "name": "Central Factory Collectopaedia Part Completion", "area": "Central Factory", "cat": "Part" },
-    { "name": "Central Factory Collectopaedia Strange Completion", "area": "Central Factory", "cat": "Strange" },
-    { "name": "Agniratha Collectopaedia Page Completion", "area": "Agniratha", "cat": "ALL" },
-    { "name": "Agniratha Collectopaedia Fruit Completion", "area": "Agniratha", "cat": "Fruit" },
-    { "name": "Agniratha Collectopaedia Flower Completion", "area": "Agniratha", "cat": "Flower" },
-    { "name": "Agniratha Collectopaedia Bug Completion", "area": "Agniratha", "cat": "Bug" },
-    { "name": "Agniratha Collectopaedia Nature Completion", "area": "Agniratha", "cat": "Nature" },
-    { "name": "Agniratha Collectopaedia Part Completion", "area": "Agniratha", "cat": "Part" },
-    { "name": "Agniratha Collectopaedia Strange Completion", "area": "Agniratha", "cat": "Strange" },
-    { "name": "Bionis' Interior Collectopaedia Page Completion", "area": "Bionis' Interior", "cat": "ALL" },
-    { "name": "Bionis' Interior Collectopaedia Vegetable Completion", "area": "Bionis' Interior", "cat": "Vegetable" },
-    { "name": "Bionis' Interior Collectopaedia Animal Completion", "area": "Bionis' Interior", "cat": "Animal" },
-    { "name": "Bionis' Interior Collectopaedia Strange Completion", "area": "Bionis' Interior", "cat": "Strange" },
-    { "name": "Prison Island Collectopaedia Page Completion", "area": "Prison Island", "cat": "ALL" },
-    { "name": "Prison Island Collectopaedia Fruit Completion", "area": "Prison Island", "cat": "Fruit" },
-    { "name": "Prison Island Collectopaedia Animal Completion", "area": "Prison Island", "cat": "Animal" },
-    { "name": "Prison Island Collectopaedia Bug Completion", "area": "Prison Island", "cat": "Bug" },
-    { "name": "Prison Island Collectopaedia Nature Completion", "area": "Prison Island", "cat": "Nature" },
-    { "name": "Prison Island Collectopaedia Part Completion", "area": "Prison Island", "cat": "Part" },
-    { "name": "Prison Island Collectopaedia Strange Completion", "area": "Prison Island", "cat": "Strange" },
-    { "name": "Other Collectopaedia Page Completion", "area": "Other", "cat": "ALL" },
-    { "name": "Other Collectopaedia Bug Completion", "area": "Other", "cat": "Bug" },
-    { "name": "Other Collectopaedia Part Completion", "area": "Other", "cat": "Part" },
-    { "name": "Other Collectopaedia Strange Completion", "area": "Other", "cat": "Strange" }
-]
+def getCollectopaediaValue(world: World, state: CollectionState, player: int, catName: str):
+    cacheKey = f"{player}-{catName}"
+
+    if cacheKey in CollectopaediaCache:
+        return True
+
+    val = state.has_all(world.item_name_groups[catName], player)
+
+    if val:
+        CollectopaediaCache.append(cacheKey)
+    return val
+
+def getColVal(state: CollectionState, area: str, cat: str, player: int):
+    if (cat == "ALL"):
+        for item in ["Vegetable", "Flower", "Fruit", "Animal", "Bug", "Nature", "Part", "Strange"]:
+            if state.count(f"Progressive {item} Category", player) < COLLECTOPAEDIA_REQUIREMENTS[area][item]:
+                return False
+        return True
+    else:
+        return state.count(f"Progressive {cat} Category", player) >= COLLECTOPAEDIA_REQUIREMENTS[area][cat]
+
+def playerHasPage(state: CollectionState, player: int, area: str, cat: str) -> bool:
+    cacheKey = f"{player}-{area}-{cat}"
+    if cacheKey in CollectopaediaCache:
+        return True
+
+    val = playerHasItems(state, player, PAGE_REQUIREMENTS.get(f"{area}|{cat}", []))
+    if val:
+        CollectopaediaCache.append(cacheKey)
+    return val
+
+def playerHasItems(state: CollectionState, player: int, items: list[str]) -> bool:
+    for item in items:
+        if not state.has(item, player):
+            return False
+    return True
 
 # Called after rules for accessing regions and locations are created, in case you want to see or modify that information.
 def after_set_rules(world: World, multiworld: MultiWorld, player: int):
     # Use this hook to modify the access rules for a given location
-
-    def Example_Rule(state: CollectionState) -> bool:
-        # Calculated rules take a CollectionState object and return a boolean
-        # True if the player can access the location
-        # CollectionState is defined in BaseClasses
-        return True
-
-    def getCollectopaediaValue(world: World, state: CollectionState, player: int, catName: str, cacheKey: str):
-        val = state.has_all(world.item_name_groups[catName], player)
-        return val
-
-    def getColVal(state: CollectionState, area: str, cat: str, player: int):
-        if (cat == "ALL"):
-            for item in ["Vegetable", "Flower", "Fruit", "Animal", "Bug", "Nature", "Part", "Strange"]:
-                if state.count(f"Progressive {item} Category", player) < CollectopaediaRequirements[area][item]:
-                    return False
-            return True
-        else:
-            return state.count(f"Progressive {cat} Category", player) >= CollectopaediaRequirements[area][cat]
-
+    CollectopaediaCache.clear()
 
     if is_option_enabled(multiworld, player, "Collectopaedia") and is_option_enabled(multiworld, player, "collectopaediasanity"):
         for loc in COLLECTOPAEDIA_LOCATIONS:
@@ -281,25 +152,15 @@ def after_set_rules(world: World, multiworld: MultiWorld, player: int):
             area = loc["area"]
             cat = loc["cat"]
             if cat == "ALL":
-                location.access_rule = lambda state, area=area: (getCollectopaediaValue(world, state, player, f"{area} Collectopaedia", "") == True)
+                location.access_rule = lambda state, area=area: (getCollectopaediaValue(world, state, player, f"{area} Collectopaedia"))
             else:
-                location.access_rule = lambda state, area=area, cat=cat: (getCollectopaediaValue(world, state, player, f"{area} Collection ({cat})", "") == True)
+                location.access_rule = lambda state: (playerHasPage(state, player, area, cat))
     elif is_option_enabled(multiworld, player, "Collectopaedia"):
         for loc in COLLECTOPAEDIA_LOCATIONS:
             location = multiworld.get_location(loc["name"], player)
             area = loc["area"]
             cat = loc["cat"]
-            location.access_rule = lambda state, area=area, cat=cat: (getColVal(state, area, cat, player) == True)
-
-    ## Common functions:
-    # location = world.get_location(location_name, player)
-    # location.access_rule = Example_Rule
-
-    ## Combine rules:
-    # old_rule = location.access_rule
-    # location.access_rule = lambda state: old_rule(state) and Example_Rule(state)
-    # OR
-    # location.access_rule = lambda state: old_rule(state) or Example_Rule(state)
+            location.access_rule = lambda state, area=area, cat=cat: (getColVal(state, area, cat, player))
 
 # The item name to create is provided before the item is created, in case you want to make changes to it
 def before_create_item(item_name: str, world: World, multiworld: MultiWorld, player: int) -> str:
