@@ -1,0 +1,1876 @@
+- Region: Colony 9
+    - Category: Achievements
+        - Hunter-in-Training
+        - First Steps
+        - Your First Friend
+        - Friend Number Ten
+        - The Brave Protectors
+        - Constellation
+        - Problem Solved!
+        - Helpful Stranger
+        - Beginner's Luck
+        - Some Help You Are!
+        - Ground Down
+        - Critical Thinking
+        - Let's Fight!
+        - Go Team!
+        - Chain Gang
+        - Back-Stabber
+        - Come On, Cheer Up!
+        - Right, Let's Do This!
+        - One Step Further
+        - Art School
+        - Turning it Around
+        - Skip It
+        - Lazybones
+        - One is Never Enough
+        - Study Aids
+        - Ear to the Ground
+        - Breaking the Ice
+        - Blossoming Friendship
+        - Equivalent Exchange
+        - Tradesman
+    - Category: AffinityChart
+        - Andreas
+        - Arnaut
+        - Betty
+        - Cheryl
+        - Dean
+        - Désirée
+        - Dionysis
+        - Dorothy
+        - Emmy Leater
+        - Erik
+        - Françoise
+        - Giorgio
+        - Jackson
+        - Jan
+        - Jiroque
+        - Jolele
+        - Kantz
+        - Kenny Rohan
+        - King Squeeze
+        - Leopold
+        - Liliana
+        - Lukas
+        - Marcia
+        - Mefimefi
+        - Miller
+        - Minnie
+        - Monica
+        - Moritz
+        - Narine
+        - Nic
+        - Niranira
+        - Oleksiy
+        - Paola
+        - Peppino
+        - Perrine
+        - Raoul
+        - Rocco
+        - Rosemary
+        - Sesame
+        - Shura
+        - Sonia
+        - Suzanna
+        - Sylviane
+        - Werner
+        - Zukazu
+    - Category: AffinityQuests
+        - Biscuits for a Grandson
+        - Lonely Niranira
+        - The Broken Watch
+        - The Key to a Long Life
+        - A Young Captain's Request
+        - A Curry Conundrum
+        - Rocco's Heartful Request
+        - Education-Minded Suzanna
+        - Pride and Courage
+        - Liliana's Sincere Request
+        - Overworked and Underpaid
+        - The Plan - The Night Before
+        - The Plan - Execution
+    - Category: ChallengeQuests
+        - Challenge 1 (Colony 9)
+        - Challenge 2 (Colony 9)
+        - Challenge 3 (Colony 9)
+    - Category: CollectionQuests
+        - Collection Quest 1 (Colony 9)
+        - Collection Quest 2 (Colony 9)
+        - Collection Quest 3 (Colony 9)
+        - Collection Quest 4 (Colony 9)
+    - Category: Collectopaedia
+        - Colony 9 Collectopaedia Page Completion
+        - Colony 9 Collectopaedia Vegetable Completion
+        - Colony 9 Collectopaedia Fruit Completion
+        - Colony 9 Collectopaedia Flower Completion
+        - Colony 9 Collectopaedia Bug Completion
+        - Colony 9 Collectopaedia Part Completion
+        - Colony 9 Collectopaedia Strange Completion
+    - Category: DevelopmentLevels
+        - Colony 9 Development Level 1
+        - Colony 9 Development Level 2
+        - Colony 9 Development Level 3
+        - Colony 9 Development Level 4
+        - Colony 9 Development Level 5
+    - Category: HeartToHearts
+        - Enduring Friendship
+        - Sunrise in the Park
+        - Fiora's Cooking
+    - Category: MaterialQuests
+        - Material Quest 1 (Colony 9)
+        - Material Quest 2 (Colony 9)
+        - Material Quest 3 (Colony 9)
+        - Material Quest 4 (Colony 9)
+    - Category: MonsterQuests
+        - Monster Quest 1 - Part 1 (Colony 9)
+        - Monster Quest 1 - Part 2 (Colony 9)
+        - Monster Quest 1 - Part 3 (Colony 9)
+        - Monster Quest 2 - Part 1 (Colony 9)
+        - Monster Quest 2 - Part 2 (Colony 9)
+        - Monster Quest 2 - Part 3 (Colony 9)
+        - Monster Quest 3 - Part 1 (Colony 9)
+        - Monster Quest 3 - Part 2 (Colony 9)
+        - Monster Quest 3 - Part 3 (Colony 9)
+        - Monster Quest 3 - Part 4 (Colony 9)
+    - Category: SearchQuests
+        - Search Quest 1 (Colony 9)
+        - Search Quest 2 (Colony 9)
+        - Search Quest 3 (Colony 9)
+        - Search Quest 4 (Colony 9)
+    - Category: StoryQuests
+        - Delivering Food
+    - Category: UniqueMonsters
+        - Verdant Bluchal (Lv 5)
+    - Category: landmarks
+        - Gem Man's Stall
+        - Mechon Wreckage Site
+        - Main Entrance (Colony 9)
+        - Ether Light (Colony 9)
+        - Central Plaza (Colony 9)
+        - Fortress Entrance
+        - Tranquil Square
+        - Outlook Park
+        - Tephra Cave Entrance
+    - Category: locations
+        - Commercial District
+        - Military District
+        - Residential District
+        - Dunban's House
+        - Weapon Development Lab
+        - Anti-Air Battery 1
+        - Anti-Air Battery 2
+        - Anti-Air Battery 3
+        - Tephra Hill
+        - Cliff Lake
+        - Agora Shore
+        - Hazzai Cape
+- Region: Tephra Cave
+    - Category: Achievements
+        - Pro Hunter
+        - A Corner of the World
+        - The Strongest Tie
+        - Colony 9 Celeb
+        - Shaping History
+        - Tough Guy, Eh?
+        - Airing Grievances
+        - Bug Off
+        - Smashing
+        - Not Gonna Happen!
+        - Second Wind
+        - Turn It up
+        - Ninja Skillz
+        - Jaws of Defeat
+        - Reyn Time, Baby!
+        - A Work of Art
+        - Looking For Trouble
+        - Unlucky Sixes
+        - Lucky Sevens
+        - Hunting for Treasure
+        - Ooh, Shiny
+        - Titan's Gift
+        - That Hits the Slot
+        - Learning the Craft
+        - Craftacular!
+        - Craftstravaganza!
+        - Lending a Hand
+        - Making Waves
+        - Collector's Mentality
+    - Category: AffinityQuests
+        - Dean's Shady Request
+        - Education-Crazy Suzanna
+        - Flattened Flowers
+        - The Lost Pendant
+        - The Plan - Preparation
+        - A Young Captain's Suffering
+        - A Young Captain's Rise
+        - Arachno Silk Fundraising
+        - A Thank You
+        - Missing in Action
+        - Clearing Obstructions
+    - Category: ChallengeQuests
+        - Challenge 4
+    - Category: CollectionQuests
+        - Collection Quest 1 (Tephra Cave)
+        - Collection Quest 2 (Tephra Cave)
+    - Category: Collectopaedia
+        - Tephra Cave Collectopaedia Page Complete
+        - Tephra Cave Collectopaedia Fruit Completion
+        - Tephra Cave Collectopaedia Flower Completion
+        - Tephra Cave Collectopaedia Animal Completion
+        - Tephra Cave Collectopaedia Bug Completion
+        - Tephra Cave Collectopaedia Nature Completion
+        - Tephra Cave Collectopaedia Strange Completion
+    - Category: Colony 9 Bosses
+        - Ancient Machines
+        - Metal Face
+    - Category: MaterialQuests
+        - Material Quest 1 (Tephra Cave)
+        - Material Quest 2 (Tephra Cave)
+    - Category: MonsterQuests
+        - Monster Quest 4 - Part 1 (Colony 9)
+        - Monster Quest 4 - Part 2 (Colony 9)
+        - Monster Quest 4 - Part 3 (Colony 9)
+    - Category: Tephra Cave Bosses
+        - Arachno Queen
+    - Category: UniqueMonsters
+        - Itinerant Dorothea (Lv 6)
+        - Evil Rhangrot (Lv 6)
+        - Lake Magdalena (Lv 6)
+        - Cellar Bugworm (Lv 10)
+        - Gluttonous Eugen (Lv 11)
+        - Mining Patrichev (Lv 8)
+        - Solid Konev (Lv 10)
+        - Wallslide Gwynry (Lv 9)
+    - Category: landmarks
+        - Cylinder Hangar
+        - Tephra Path
+        - Mag Mell Ruins
+        - Rear Entrance
+        - Spring of Grief
+        - Villa Lake
+        - Leg Pass
+    - Category: locations
+        - Caterpile Nest
+        - Escape Pod Bay
+        - Warehouse 2
+        - Tephra Cavern
+        - Arachno Queen's Nest
+        - Kneecap Hill
+- Region: Bionis' Leg
+    - Category: Achievements
+        - Explorer
+        - Fifty Fine Friends
+        - Spider's Web
+        - Heartwarming
+        - Heartbreaking
+        - Bone Breaker
+        - Time for New Glasses
+        - Machine Mishaps
+        - Machine Mayhem
+        - Ground Up
+        - Clearing the Air
+        - Walking Insecticide
+        - Fish for Compliments
+        - Killer Combo
+        - Rear Admiral
+        - Art Practice
+        - Phoenix
+        - Beating the Odds
+        - Hoarding Treasure
+        - It Hasn't Lost its Luster
+        - Raring to Go
+        - Truly Outrageous
+        - Terminal Velocity
+        - Fruitful Gifts
+        - Unshakable Trust
+    - Category: AffinityChart
+        - Earnest
+        - Gerugu
+        - Batubatu
+        - Juju
+        - Anna
+        - Arda
+        - Ewan
+        - Gorman
+        - Kiroki
+        - Matryona
+        - Nikita
+        - Olga
+        - Pama
+        - Satata
+    - Category: AffinityQuests
+        - Jackson's Awakening
+        - A Mysterious Light
+        - Out Like a Light?
+        - A Thoughtful Idea (MISSABLE)
+        - A Dash of Colour (MISSABLE)
+        - Being a Good Grandfather (MISSABLE)
+        - Earnest's Fibs
+        - Emergency Treatment (MISSABLE)
+        - The Lost Nopon
+        - Thieving Monsters (MISSABLE)
+        - Earnest's Mischief
+        - The Greedy Monster (MISSABLE)
+        - Earnest's Solitude
+        - With Much Gratitude
+        - With Even More Gratitude
+        - Save the Girl! (MISSABLE)
+    - Category: Bionis' Leg Bosses
+        - Mechon M71
+        - Xord (Bionis' Leg)
+    - Category: ChallengeQuests
+        - Challenge 1 - Part 1 (Bionis' Leg) (MISSABLE)
+        - Challenge 1 - Part 2 (Bionis' Leg) (MISSABLE)
+        - Challenge 2 - Part 1 (Bionis' Leg) (MISSABLE)
+        - Challenge 2 - Part 2 (Bionis' Leg) (MISSABLE)
+    - Category: CollectionQuests
+        - Collection Quest 1 (Bionis' Leg) (MISSABLE)
+        - Collection Quest 2 (Bionis' Leg) (MISSABLE)
+    - Category: Collectopaedia
+        - Bionis' Leg Collectopaedia Page Completion
+        - Bionis' Leg Collectopaedia Vegetable Completion
+        - Bionis' Leg Collectopaedia Fruit Completion
+        - Bionis' Leg Collectopaedia Bug Completion
+        - Bionis' Leg Collectopaedia Nature Completion
+        - Bionis' Leg Collectopaedia Part Completion
+        - Bionis' Leg Collectopaedia Strange Completion
+    - Category: DevelopmentLevels
+        - Colony 6 Development Level 1
+        - Colony 6 Development Level 2
+        - Colony 6 Development Level 3
+        - Colony 6 Development Level 4
+        - Colony 6 Development Level 5
+    - Category: HeartToHearts
+        - Overlooking the Colony
+        - What Visions May Bring
+        - What's On Reyn's Mind
+    - Category: MaterialQuests
+        - Material Quest 1 (Bionis' Leg) (MISSABLE)
+        - Material Quest 2 (Bionis' Leg) (MISSABLE)
+        - Material Quest 3 (Bionis' Leg) (MISSABLE)
+        - Material Quest 4 (Bionis' Leg) (MISSABLE)
+    - Category: MonsterQuests
+        - Monster Quest 1 - Part 1 (Bionis' Leg)
+        - Monster Quest 1 - Part 2 (Bionis' Leg)
+        - Monster Quest 1 - Part 3 (Bionis' Leg)
+        - Monster Quest 1 - Part 4 (Bionis' Leg)
+        - Monster Quest 2 (Bionis' Leg) (MISSABLE)
+        - Monster Quest 3 - Part 1 (Bionis' Leg) (MISSABLE)
+        - Monster Quest 3 - Part 2 (Bionis' Leg) (MISSABLE)
+    - Category: SearchQuests
+        - Search Quest 1 (Bionis' Leg) (MISSABLE)
+        - Search Quest 2 (Bionis' Leg) (MISSABLE)
+    - Category: UniqueMonsters
+        - Speedy Ramshyde (Lv 10)
+        - Enchanting Grune (Lv 13)
+        - Armoured Rockwell (Lv 82)
+        - Canyon Valencia (Lv 78)
+        - Clifftop Bayern (Lv 32)
+        - Napping Volfen (Lv 17)
+        - Night Cardamon (Lv 18)
+        - Sniper Paramecia (Lv 15)
+        - Trainer Harmelon (Lv 15)
+        - Vagrant Alfead (Lv 16)
+        - Violent Andante (Lv 16)
+        - White Eduardo (Lv 17)
+    - Category: landmarks
+        - Ragrinar Canyon Path
+        - Jabos Rock Rest Area
+        - Kamos Guidepost
+        - Refugee Camp
+        - Raguel Bridge - South
+        - Raguel Bridge - North
+        - Spiral Valley
+        - Zax Guidepost
+        - Bask Cave Passage
+        - Observation Platform
+        - Believer's Paradise
+    - Category: locations
+        - Volff Lair
+        - Tranquil Grotto
+        - Kisk Cave
+        - Windy Cave
+        - Maguel Road
+        - Raguel Lake
+        - Vilera Hill
+        - Rho Oasis
+        - Gaur Plain
+        - Tirkin Headquarters
+        - Sky Stage
+        - Daksha Shrine
+        - Crevasse Waterfall
+        - Traveller's Rest
+        - Kasharpa Falls
+- Region: Colony 6
+    - Category: Achievements
+        - Generous Friend
+        - Idle Chit-Chat
+    - Category: AffinityChart
+        - Daza
+    - Category: AffinityQuests
+        - Proof of Status
+        - Safety First
+        - Secret Mission
+        - Odd Smoke - Investigation
+    - Category: Collectopaedia
+        - Colony 6 Collectopaedia Page Completion
+        - Colony 6 Collectopaedia Flower Completion
+        - Colony 6 Collectopaedia Animal Completion
+        - Colony 6 Collectopaedia Strange Completion
+    - Category: UniqueMonsters
+        - Dark Murakmor (Lv 18)
+        - Graceful Holand (Lv 19)
+    - Category: landmarks
+        - Reconstruction HQ
+        - Supply Road
+        - Watchpoint Junction
+        - Drainage Outlet
+    - Category: locations
+        - Splintered Path
+- Region: Ether Mine
+    - Category: Achievements
+        - Seasoned Traveller
+        - Simply Smashing
+        - Fire It Up
+        - Things Are Heating Up!
+        - Changing Course
+        - Titan's Generosity
+    - Category: AffinityChart
+        - Otharon
+    - Category: AffinityQuests
+        - Chemist's Reopening
+        - For the Restoration (MISSABLE)
+        - Making a New Path (MISSABLE)
+        - Satata's Younger Brother
+        - A Selfish Girl's Mistake
+    - Category: Collectopaedia
+        - Ether Mine Collectopaedia Page Completion
+        - Ether Mine Collectopaedia Animal Completion
+        - Ether Mine Collectopaedia Bug Completion
+        - Ether Mine Collectopaedia Nature Completion
+        - Ether Mine Collectopaedia Parts Completion
+        - Ether Mine Collectopaedia Strange Completion
+    - Category: Ether Mine Bosses
+        - Xord (Ether Mine)
+    - Category: HeartToHearts
+        - Watching Over Them
+        - Geography Lesson
+        - Heir to the Monado
+        - Revisiting the Past
+        - Strength of Heart
+        - The Colony Reborn
+        - One Year On
+        - Dunban's Right Arm
+        - A Broken Watch
+        - A Wistful Glow
+    - Category: UniqueMonsters
+        - Drifter Jutard (Lv 25)
+        - Dark Kisling (Lv 20)
+        - Vengeful Daulton (Lv 22)
+        - Elegant Marin (Lv 29)
+    - Category: landmarks
+        - Freight Road
+        - Misty Path
+        - Main Entrance (Colony 6)
+        - Drainage Tunnel
+        - Drainage Control Room
+        - Mining Base
+        - Central Pit - Entrance (MISSABLE)
+        - Personnel Lift 2 (MISSABLE)
+        - Freight Elevator (MISSABLE)
+        - Glowmoss Lake
+        - Regulation Piston (MISSABLE)
+        - Personnel Lift 3 (MISSABLE)
+        - Central Pit - Base Level
+    - Category: locations
+        - Freight Elevator
+        - Pod Depot
+        - Test Pit 1
+        - Test Pit 2
+        - Test Pit 3
+        - Storage Depot (Ether Mine)
+        - Central Terminal
+        - Test Pit 4
+        - Observation Point
+        - Central Pit - Level 1
+        - Central Pit - Level 2
+        - Central Pit - Level 3
+        - Freight Elevator (Ether Mine)
+- Region: Satorl Marsh
+    - Category: Achievements
+        - A Fixer-Upper
+        - I'll Change the Future!
+        - Specialist
+        - Medium Rare
+        - Mysterious Mantis
+    - Category: AffinityChart
+        - Bokoko
+        - Kacha
+        - Zazadan (MISSABLE)
+    - Category: AffinityQuests
+        - Mementos of a Lost Son
+        - Désirée's Future
+        - The Gem Man's Invention
+        - Matryona's Answer
+        - Kacha's Kidnapping
+        - Making Camp
+        - The Giants' Key
+        - The Giants' Treasure
+        - Preventing Starvation
+        - Zazadan in Danger
+        - Zazadan Still in Danger
+        - It's All in the Mind
+        - A Mysterious Delicacy
+        - A Gift? (MISSABLE)
+    - Category: Collectopaedia
+        - Satorl Marsh Collectopaedia Page Completion
+        - Satorl Marsh Collectopaedia Vegetable Completion
+        - Satorl Marsh Collectopaedia Flower Completion
+        - Satorl Marsh Collectopaedia Animal Completion
+        - Satorl Marsh Collectopaedia Nature Completion
+        - Satorl Marsh Collectopaedia Parts Completion
+        - Satorl Marsh Collectopaedia Strange Completion
+    - Category: HeartToHearts
+        - The Shimmering Marsh
+        - Atop the Crown Tree
+    - Category: MonsterQuests
+        - Monster Quest 1 (Satorl Marsh)
+        - Monster Quest 2 (Satorl Marsh)
+        - Monster Quest 3 (Satorl Marsh)
+        - Monster Quest 4 (Satorl Marsh)
+    - Category: Satorl Marsh Bosses
+        - Satorl Guardian
+    - Category: StoryQuests
+        - The Ancient Ceremony
+        - Ancient Ceremony Offerings
+    - Category: UniqueMonsters
+        - Aggressive Cornelius (Lv 28)
+        - Amber Fischer (Lv 27)
+        - Cautious Balteid (Lv 26)
+        - Reckless Godwin (Lv 31)
+        - Stormy Widardun (Lv 25)
+        - Sunlight Schvaik (Lv 30)
+        - Swift Zektol (Lv 28)
+        - Tumultuous Felix (Lv 27)
+        - Veteran Yozel (Lv 83)
+    - Category: landmarks
+        - Kelsher Wetland
+        - Nopon Merchant Camp
+        - Crown Tree
+        - Silent Obelisk
+        - Glowing Obelisk
+        - Sororal Statues
+        - Statue Summit
+        - Shining Pond
+    - Category: locations
+        - Hope Farm
+        - Lacus Swamp
+        - Zaldania Waterfall
+        - Poison Swamp
+        - Altar of Fate
+        - Barren Moor
+        - Basin Cave
+        - Nopon Refuge
+        - Exile Fortress
+        - Mauk Floodgate
+        - Oath Sanctuary
+        - Place of Judgement
+        - Dark Swamp
+        - Soter Ruins
+        - Igna Territory
+- Region: Bionis' Interior (1st Visit)
+    - Category: UniqueMonsters
+        - Gentle Mother Armu (Lv 37)
+        - Impenetrable Redrob (Lv 38)
+        - Roguish Frengel (Lv 39)
+    - Category: landmarks
+        - Terminal Trachea
+        - Upper Trachea
+    - Category: locations
+        - Third Lung
+- Region: Makna Forest
+    - Category: Achievements
+        - Trailblazer
+        - No Stopping You
+        - Ground to a Pulp
+        - Elementary!
+        - Tip Top Team-Up
+        - Off the Chain
+        - Attack Me if You Dare!
+        - Who Dares Defy Me?
+        - Need...More...Treasure
+        - You May Have This
+        - Unbreakable Bond
+    - Category: AffinityChart
+        - Nopon Sage
+    - Category: AffinityQuests
+        - Young Captain's Challenge
+        - Legend of Mythical Empress
+        - Rest in Peace
+        - A Gutsy Trader
+    - Category: Collectopaedia
+        - Makna Forest Collectopaedia Page Completion
+        - Makna Forest Collectopaedia Vegetable Completion
+        - Makna Forest Collectopaedia Fruit Completion
+        - Makna Forest Collectopaedia Flower Completion
+        - Makna Forest Collectopaedia Animal Completion
+        - Makna Forest Collectopaedia Bug Completion
+        - Makna Forest Collectopaedia Strange Completion
+    - Category: Makna Forest Bosses
+        - Puera Telethia
+    - Category: MonsterQuests
+        - Defend Colony 6 - Mechon (15% Reconstruction)
+        - Monster Quest 1 (Makna Forest)
+        - Monster Quest 2 (Makna Forest)
+        - Monster Quest 3 (Makna Forest)
+        - Monster Quest 4 (Makna Forest)
+    - Category: StoryQuests
+        - Mystery Girl Rescue
+    - Category: UniqueMonsters
+        - Gentle Rodriguez (Lv 40)
+        - Shadeless Matrix (Lv 44)
+        - Agile Albatro (Lv 33)
+        - Breezy Zolos (Lv 37)
+        - Elder Gragus (Lv 34)
+        - Lazy Bluco (Lv 34)
+        - Obsessive Galgaron (Lv 35)
+        - Shimmering Forte (Lv 33)
+    - Category: landmarks
+        - Makna Path
+        - Agni Tablet
+        - Waypoint Beacon
+        - Lakeside
+        - Nopon Arch
+        - Twisted Tree Gate
+        - Village Entrance
+        - Windmill Pavilion
+        - Glowmoss Trihenge
+        - Divine Sanctuary
+        - Seahorse Islet
+        - Sparkling Pool
+    - Category: locations
+        - Eks Watering Hole
+        - Contaminated Area
+        - Sap Cave
+        - Bridge One
+        - Bridge Two
+        - Bridge Three
+        - Clear Waterfall
+        - Yellow Flower Grove
+        - Decayed Forest
+        - Abyss Basin
+        - Precipice Bridge
+        - Hode Lair
+        - Great Makna Falls
+- Region: Frontier Village
+    - Category: Achievements
+        - Know So Many Nopon!
+        - Honorary Nopon
+        - Pouring Out Your Heart
+        - Riki Use Arts!
+        - Not Just Riki Eat!
+        - Social Butterfly
+        - Indigo Belligerence
+    - Category: AffinityChart
+        - Ababa
+        - Adidi
+        - Bana
+        - Berryjammy
+        - Cherri
+        - Dabidabi
+        - Dedeba
+        - Deki
+        - Dobadoba
+        - Gadada
+        - Gowago
+        - Hoko
+        - Kilaki
+        - Kofuko
+        - Kokora
+        - Kuriku
+        - Lalapa
+        - Leku
+        - Lupa
+        - Medi
+        - Migaga
+        - Miko
+        - Minana
+        - Modamo
+        - Norara
+        - Npa
+        - Pachipa
+        - Pelupelu
+        - Pepa
+        - Pipiki
+        - Pokapoka
+        - Puko
+        - Rasha
+        - Rono
+        - Tati
+        - Tuzu
+        - Yusa
+    - Category: AffinityQuests
+        - Paola and Narine
+        - The Old Soldier's Test
+        - Hunt for Bug-Loving Friend
+        - Leku's Food Crisis
+        - Making a Mixer
+        - Materials for a Mixer
+        - Material Quest 1 (Frontier Village)
+        - Material Quest 2 (Frontier Village)
+        - Material Quest 4 (Frontier Village)
+        - Monster Quest 1 - Part 1 (Frontier Village)
+        - Monster Quest 1 - Part 2 (Frontier Village)
+        - Monster Quest 1 - Part 3 (Frontier Village)
+        - Monster Quest 2 - Part 1 (Frontier Village)
+        - Monster Quest 2 - Part 2 (Frontier Village)
+        - Monster Quest 2 - Part 3 (Frontier Village)
+        - Mushy Mushrooms
+        - Search Quest 1 (Frontier Village)
+        - Search Quest 2 (Frontier Village)
+        - Search Quest 3 (Frontier Village)
+        - A Worried Bug-Lover
+        - Disinsectization
+        - Hunt for a Patron
+        - Heropon's Spirit
+        - Pollen Orb Ingredients
+        - Secret Ingredient Hunt
+        - Secret Innovation
+        - Beat Kilaki to it!
+        - Dadapon in Trouble
+        - Kind Lupa's Grampypon
+        - Secret Elixir Ingredients
+        - The Master's Successor
+        - It Definitely Exist!
+        - Popularity Premonition
+        - Decoration Makeover
+        - Fixing Time Mushrooms
+        - Strange Noises from Below
+        - Musical Genius
+        - Things that Hum
+        - Things that Rumble
+        - Sweet Seduction
+        - Ingredients For A Brew
+        - Lousy Lizards
+    - Category: ChallengeQuests
+        - Challenge (Makna Forest)
+        - Challenge 1 (Frontier Village)
+        - Challenge 2 (Frontier Village)
+        - Challenge 3 (Frontier Village)
+    - Category: CollectionQuests
+        - Collection Quest 1 (Frontier Village)
+        - Collection Quest 2 (Frontier Village)
+        - Collection Quest 3 (Frontier Village)
+        - Collection Quest 4 (Frontier Village)
+    - Category: Collectopaedia
+        - Frontier Village Collectopaedia Page Completion
+        - Frontier Village Collectopaedia Fruit Completion
+        - Frontier Village Collectopaedia Bug Completion
+        - Frontier Village Collectopaedia Strange Completion
+    - Category: DevelopmentLevels
+        - Frontier Village Development Level 1
+        - Frontier Village Development Level 2
+        - Frontier Village Development Level 3
+        - Frontier Village Development Level 4
+        - Frontier Village Development Level 5
+    - Category: HeartToHearts
+        - Ancient Wreckage
+        - A Heropon's Perspective
+        - Glowing in the Night
+        - High Entia History
+        - Fallen Brethren
+        - Riki's Crazy Crystal Plan
+        - No Boys Allowed
+        - At the Pollen Works
+        - Life's Hard for a Heropon
+        - True Natures
+        - A Mysterious Sanctuary
+    - Category: Makna Forest Bosses
+        - Leone Telethia
+    - Category: StoryQuests
+        - An Errand for the Heropon
+    - Category: landmarks
+        - Entry Bridge
+        - Nopon Tower
+        - Sacred Altar
+        - Pollen Works
+        - Riki's House
+        - Chief's Residence
+        - Prophecy Hut
+        - Contemplation Terrace
+    - Category: locations
+        - Nopon Kitchen
+        - Underground Store
+        - Reservoir
+        - Central Plaza (Frontier Village)
+        - Kyn Shopping Street
+        - Pollen Orb Storehouse
+        - Orb Storage Level
+        - Middle Housing Level
+        - Pollen Works Level
+        - Archaeology Level
+        - Archaeology Centre
+        - Top Housing Level
+        - Mysterious Sanctuary
+        - Apex Lake
+- Region: Eryth Sea
+    - Category: Achievements
+        - Globetrotter
+        - Drawing a Crowd
+        - Rock Smasher
+        - Anti-Air Battering
+        - Cosmic Killer Combo
+    - Category: AffinityChart
+        - Jarack
+        - Shalen
+    - Category: AffinityQuests
+        - Legend of the Sage
+        - Challenge of the Sage
+        - Honouring the Nopon Sage
+        - Meeting the Nopon Sage
+        - A Tormented Bug-Lover
+        - Avenge a Mamapon's Death
+        - Trouble at the Plant
+        - Punish the Hodes
+        - Mend the Plant
+        - Hode Attack
+        - Trouble at the Lighthouse
+    - Category: ChallengeQuests
+        - Challenge (Eryth Sea)
+    - Category: CollectionQuests
+        - Collect Quest 1 (Eryth Sea)
+        - Collect Quest 2 (Eryth Sea)
+    - Category: Collectopaedia
+        - Eryth Sea Collectopaedia Page Completion
+        - Eryth Sea Collectopaedia Vegetable Completion
+        - Eryth Sea Collectopaedia Flower Completion
+        - Eryth Sea Collectopaedia Animal Completion
+        - Eryth Sea Collectopaedia Nature Completion
+        - Eryth Sea Collectopaedia Strange Completion
+    - Category: HeartToHearts
+        - Fish Fly! Fish Fly!
+        - A Gift for a Loved One
+        - Flowers of Eryth Sea
+    - Category: MonsterQuests
+        - Monster Quest 1 (Eryth Sea)
+        - Monster Quest 2 (Eryth Sea)
+    - Category: StoryQuests
+        - Save the Worker
+    - Category: UniqueMonsters
+        - Bizarre Ragoel (Lv 88)
+        - Clamorous Dablon (Lv 92)
+        - Cumulus Danaemos (Lv 41)
+        - Deadly Medorlo (Lv 93)
+        - Flabbergasted Jerome (Lv 38)
+        - Funeral Gozra (Lv 42)
+        - Lightspeed Sonid (Lv 44)
+        - Peeling Kircheis (Lv 38)
+        - Proper Bandaz (Lv 39)
+        - Sacred Zagamei (Lv 89)
+        - Stormy Belagon (Lv 87)
+        - Subterranean Zomar (Lv 40)
+        - Tempestuous Edegia (Lv 39)
+        - Turbulent Belmo (Lv 36)
+    - Category: landmarks
+        - Latael Shore
+        - Centre Gate
+        - High Entia Tomb
+        - Syrath Lighthouse
+        - Central Seal Island
+        - Soltnar Seal Island
+        - Khatorl Seal Island
+        - Ether Plant
+        - Faras Cave
+    - Category: locations
+        - Anu Shore
+        - Bionis' Occipital
+        - Ether Crystal Deposit
+        - Hode Refuge
+        - Hovering Reef 1
+        - Hovering Reef 2
+        - Kromar Coast
+        - Secluded Island
+        - Showdown Cliff
+        - Sleeping Dragon Isle
+- Region: Alcamoth
+    - Category: Achievements
+        - Friend of the World
+        - Wings of Nobility
+        - Colony 6 Celeb
+        - Honorary High Entia
+        - Charitable Ally
+        - Can't Keep 'Em Down
+        - Down But Never Out
+    - Category: AffinityChart
+        - Arielle
+        - Atael
+        - Baroba
+        - Caul
+        - Cian
+        - Don Argentis
+        - Donnis
+        - Elior
+        - En Argentis
+        - Galdo
+        - Galvin
+        - Jer'ell
+        - Kaleka
+        - Kaelin
+        - Kurralth
+        - Lar'shen
+        - Lecrough
+        - Lesunia
+        - Lunara
+        - Ma'crish
+        - Merisa
+        - Miriall
+        - Mir'leiz
+        - Naroth
+        - Nelo
+        - Piko
+        - Popipo
+        - Ricoth
+        - Rozeal
+        - Ruthan
+        - Scarlen
+        - Talia
+        - Talonyth
+        - Teelan
+        - Vidian
+        - Vol'aren
+        - Yura
+        - Zain
+        - Zel Argentis
+    - Category: AffinityQuests
+        - Cook-Off Counter Attack!
+        - Missing Lodger
+        - Cook-Off Comeback?
+        - Cook-Off Final Blow?!
+        - A Delectable Delicacy
+        - Looking for Freedom
+        - Gather Information
+        - Dangerous Ambition (MISSABLE)
+        - Find the Kingpin (MISSABLE)
+        - Adviser Hunt (MISSABLE)
+        - Evidence Collection (MISSABLE)
+        - Destroying the City Trade (MISSABLE)
+        - A Friend in Need (MISSABLE)
+        - Back Pain (MISSABLE)
+        - Bring Back My Son! (MISSABLE)
+        - Teaching Materials (MISSABLE)
+        - Building Bridges (MISSABLE)
+        - Getting a Member's Card (MISSABLE)
+        - Going Out to Play (MISSABLE)
+        - How Do They Feel? (MISSABLE)
+        - How Do I Feel? (MISSABLE)
+        - Looking for a Lost Son (MISSABLE)
+        - Looking for a Lost Daughter (MISSABLE)
+        - Looking for Gold Bugs (MISSABLE)
+        - Losing the Taste for Alcohol (MISSABLE)
+        - Preparing for Adventure (MISSABLE)
+        - The Deciphering Machine (MISSABLE)
+        - Preparing for Adventure 2 (MISSABLE)
+        - Brave Actions (MISSABLE)
+        - Protect the Capital! (MISSABLE)
+        - Preparing for Adventure 3 (MISSABLE)
+        - Starlight Seeker (MISSABLE)
+    - Category: ChallengeQuests
+        - Challenge 1 (Alcamoth) (MISSABLE)
+        - Challenge 2 (Alcamoth) (MISSABLE)
+        - Challenge 3 (Alcamoth) (MISSABLE)
+        - Challenge 4 (Alcamoth) (MISSABLE)
+    - Category: CollectionQuests
+        - Collection Quest 1 (Alcamoth} (MISSABLE)
+        - Collection Quest 2 (Alcamoth} (MISSABLE)
+        - Collection Quest 3 (Alcamoth} (MISSABLE)
+        - Collection Quest 4 (Alcamoth} (MISSABLE)
+    - Category: Collectopaedia
+        - Alcamoth Collectopaedia Page Completion
+        - Alcamoth Collectopaedia Fruit Completion
+        - Alcamoth Collectopaedia Flower Completion
+        - Alcamoth Collectopaedia Strange Completion
+    - Category: DevelopmentLevels
+        - Alcamoth Development Level 1
+        - Alcamoth Development Level 2
+        - Alcamoth Development Level 3
+        - Alcamoth Development Level 4
+        - Alcamoth Development Level 5
+    - Category: Eryth Sea Bosses
+        - Skyray
+    - Category: HeartToHearts
+        - So Close, Yet So Far
+        - A Breathtaking Sight
+        - Brother and Sister
+        - The Forefathers
+        - Melia's Imperial Villa
+        - Ancient Astrology
+    - Category: MaterialQuests
+        - Material Quest 1 (Alcamoth) (MISSABLE)
+        - Material Quest 2 (Alcamoth) (MISSABLE)
+        - Material Quest 3 (Alcamoth) (MISSABLE)
+        - Material Quest 4 (Alcamoth) (MISSABLE)
+    - Category: MonsterQuests
+        - Defend Colony 6 - Reptile (35% Reconstruction)
+        - Monster Quest 1 - Part 1 (Alcamoth) (MISSABLE)
+        - Monster Quest 1 - Part 2 (Alcamoth) (MISSABLE)
+        - Monster Quest 1 - Part 3 (Alcamoth) (MISSABLE)
+        - Monster Quest 2 - Part 1 (Alcamoth) (MISSABLE)
+        - Monster Quest 2 - Part 2 (Alcamoth) (MISSABLE)
+        - Monster Quest 2 - Part 3 (Alcamoth) (MISSABLE)
+        - Monster Quest 3 - Part 1 (Alcamoth) (MISSABLE)
+        - Monster Quest 3 - Part 2 (Alcamoth) (MISSABLE)
+        - Monster Quest 3 - Part 3 (Alcamoth) (MISSABLE)
+        - Monster Quest 4 - Part 1 (Alcamoth) (MISSABLE)
+        - Monster Quest 4 - Part 2 (Alcamoth) (MISSABLE)
+        - Monster Quest 4 - Part 3 (Alcamoth) (MISSABLE)
+    - Category: SearchQuests
+        - Search Quest 1 (Alcamoth) (MISSABLE)
+        - Search Quest 2 (Alcamoth) (MISSABLE)
+        - Search Quest 3 (Alcamoth) (MISSABLE)
+        - Search Quest 4 (Alcamoth) (MISSABLE)
+    - Category: landmarks
+        - Main Entrance (Alcamoth)
+        - Fountain of Hope
+        - Fountain of Eternity
+        - Imperial Palace
+        - Ascension Hall
+        - Whitewing Palace
+        - Imperial Villa
+    - Category: locations
+        - Hovering Reef 3
+        - Hovering Reef 4
+        - Hovering Reef 5
+        - Hovering Reef 6
+        - Hovering Reef 7
+        - Hovering Reef 8
+        - Hovering Reef 9
+        - Hovering Reef 10
+        - Great Hall
+        - Melfica Road
+        - Revelation Hall
+        - Sky Terrace
+        - Audience Chamber
+- Region: High Entia Tomb
+    - Category: Achievements
+        - The Final Step
+    - Category: AffinityQuests
+        - A Necessary Upgrade (MISSABLE)
+        - Starlight Gazer (MISSABLE)
+    - Category: Collectopaedia
+        - High Entia Tomb Collectopaedia Page Completion
+        - High Entia Tomb Collectopaedia Bug Completion
+        - High Entia Tomb Collectopaedia Part Completion
+        - High Entia Tomb Collectopaedia Strange Completion
+    - Category: HeartToHearts
+        - Echoes of Ancient Times
+    - Category: High Entia Tomb Bosses
+        - Orluga Rufus
+        - Solidum Telethia and Tyrea
+    - Category: UniqueMonsters
+        - Calm Anzabi (Lv 38)
+        - Furious Jozan (Lv 55)
+    - Category: landmarks
+        - Tomb Approach
+        - Sealed Chamber
+        - Ceremony Hall
+        - Tomb Robber Pool
+        - Valley of Emperors
+        - Tower of Trials - Bridge
+    - Category: locations
+        - Hall of Spirits
+        - Hall of Trials
+        - Telethia Laboratory
+        - Imperial Treasury
+        - Second Treasury
+- Region: Prison Island (1st Visit)
+    - Category: Achievements
+        - Local Hero
+    - Category: AffinityQuests
+        - Giant Attack!
+        - Material Quest 3 (Frontier Village)
+        - Mystery of Makna Ruins 1
+        - Mystery of Makna Ruins 2
+        - Healing the Healer
+        - Legendary Nopon Charm
+        - Mislabelling Problem
+        - Mystery of Makna Ruins 3
+        - Mystery of Makna Ruins 4
+        - Getting Bigger!
+        - Who is Bigger?
+        - Believing Again (MISSABLE)
+    - Category: Prison Island (First Visit) Bosses
+        - Metal Face (Prison Island)
+    - Category: StoryQuests
+        - Path to Prison Island
+        - Sister Seals
+    - Category: UniqueMonsters
+        - Brutal Gravar (Lv 46)
+    - Category: landmarks
+        - Pod Landing Site
+        - Valak Pass
+        - King Agni's Tomb
+        - High Entia Transporter
+        - Prison Gate
+        - Prison Terrace
+    - Category: locations
+        - Repaired Bridge Four
+        - Central Hall
+        - Great Canyon (1st Visit)
+- Region: Valak Mountain
+    - Category: Achievements
+        - Network of Knowledge
+        - Selfless Giver
+        - The Future is Ours!
+        - Critical Condition
+        - A Team Like No Other
+        - Titan's Greatness
+        - Thanks But No Thanks
+    - Category: AffinityChart
+        - Dakuku
+    - Category: AffinityQuests
+        - Obstinate Berryjammy
+        - A Tantalising Treat
+        - Cook-Off Showdown!
+        - Unstoppable Berryjammy
+        - The Most Transparent Thing
+        - A Final Sweet Favour
+        - Bridge Repair
+        - Chilkins and Antols
+        - Valak Mountain Research
+        - The Freezing Nopon
+        - The Magma Rock
+        - Bad Timing
+        - Chilkin Changes
+        - The Balance of Power
+    - Category: Collectopaedia
+        - Valak Mountain Collectopaedia Page Completion
+        - Valak Mountain Collectopaedia Vegetable Completion
+        - Valak Mountain Collectopaedia Fruit Completion
+        - Valak Mountain Collectopaedia Flower Completion
+        - Valak Mountain Collectopaedia Animal Completion
+        - Valak Mountain Collectopaedia Nature Completion
+        - Valak Mountain Collectopaedia Strange Completion
+    - Category: HeartToHearts
+        - A Snowy Hot Spring
+        - First Sight of Snow
+        - In Ose Tower
+    - Category: MonsterQuests
+        - Monster Quest 1 (Valak Mountain)
+        - Monster Quest 2 (Valak Mountain)
+        - Monster Quest 3 (Valak Mountain)
+        - Monster Quest 4 (Valak Mountain)
+    - Category: UniqueMonsters
+        - Agile Barbatos (Lv 47)
+        - Barbaric Sitri (Lv 47)
+        - Exposure Wolfol (Lv 97)
+        - Glorious Buer (Lv 45)
+        - Hidden Gamigin (Lv 49)
+        - Moonlight Paimon (Lv 46)
+        - North Star Gusion (Lv 50)
+        - Vague Barbas (Lv 46)
+        - Banquet Vassago (Lv 48)
+        - Conflagrant Raxeal (Lv 45)
+    - Category: Valak Mountain Bosses
+        - Mumkhar (Valak Mountain)
+    - Category: landmarks
+        - Zokhed Pass
+        - Mechonis Wound
+        - Hollow Bone
+        - Befalgar Pedestal
+        - Three Sage Summit
+        - Nopon Camp
+        - Harict Chapel
+        - Lava Cave
+        - La Luz Church
+        - Nofol Tower
+        - Bionis' Wrist
+    - Category: locations
+        - Serik Waterfall
+        - Apis Lair
+        - Nagul Waterfall
+        - Kana Peak
+        - Agul Mountain Range
+        - Chilkin Lair
+        - Url Crevasse
+        - Bagnar Snowfield
+        - Bionis' Right Elbow
+        - Valak Peak
+        - Antol Den
+        - Jakt Geyser
+        - Sealed Tower
+        - Ignia Hill
+        - Great Glacier
+- Region: Sword Valley (MISSABLE)
+    - Category: Achievements
+        - Pioneer
+        - Machine Meltdown
+    - Category: AffinityQuests
+        - Secure Dolgan Outpost (MISSABLE)
+        - Secure Enalda Control Base (MISSABLE)
+        - 3rd Gate Front Line (MISSABLE)
+        - Secure the Radio Tower (MISSABLE)
+    - Category: Collectopaedia
+        - Sword Valley Collectopaedia Page Completion
+        - Sword Valley Collectopaedia Vegetable Completion
+        - Sword Valley Collectopaedia Fruit Completion
+        - Sword Valley Collectopaedia Flower Completion
+        - Sword Valley Collectopaedia Part Completion
+        - Sword Valley Collectopaedia Strange Completion
+    - Category: Sword Valley Bosses
+        - Mumkhar (Sword Valley)
+    - Category: UniqueMonsters
+        - Benevolent Aim (Lv 51)
+        - Defective Ipos (Lv 50)
+        - Fate Labolas (Lv 51)
+        - Prudent Purson (Lv 49)
+        - Kamikaze Bune (Lv 53)
+        - Lightning Ronove (Lv 55)
+        - Mischievious Naberius (Lv 57)
+        - Tranquil Morax (Lv 50)
+    - Category: landmarks
+        - Bionis' Thumb
+        - Supply Convoy
+        - Ged Fortress
+        - Dolgan Outpost
+        - Enalda Control Base
+        - Heavy Machine Depot
+        - Control Tower (Sword Valley)
+        - Radio Tower
+        - Fortress Rear Entrance
+        - Monado Wound
+    - Category: locations
+        - 6th Gate
+        - 5th Gate
+        - 4th Gate
+        - 3rd Gate
+        - Ether Storage Area
+        - Port Maintenance Bay
+        - Port Access Pathway
+- Region: Galahad Fortress (MISSABLE)
+    - Category: Achievements
+        - World Shaker
+        - Quantum Killer Combo
+    - Category: AffinityQuests
+        - Lift Battle
+        - Supply Station Battle
+        - Turbine Battle
+        - Fiora's Conviction
+    - Category: Collectopaedia
+        - Galahad Fortress Collectopaedia Page Completion
+        - Galahad Fortress Collectopaedia Bug Completion
+        - Galahad Fortress Collectopaedia Part Completion
+        - Galahad Fortress Collectopaedia Strange Completion
+    - Category: Galahad Fortress Bosses
+        - Gold Face (Galahad Fortress)
+    - Category: UniqueMonsters
+        - Glacier Acon (Lv 52)
+        - Glorious Jurom (Lv 55)
+        - Precious Retrato (Lv 53)
+    - Category: landmarks
+        - Ether Influx Conduit
+        - Main Control Room
+        - Ether Blast Furnace
+        - Preparation Bay
+        - Fortress Depths
+    - Category: locations
+        - Main Maintenance Bay
+        - 1st Fuel Supply Room
+        - 2nd Fuel Supply Room
+        - 3rd Fuel Supply Room
+        - Blast Furnace Conduit
+        - 1st Turbine Room
+        - 2nd Turbine Room
+        - Piston Control Room
+        - Ether Input Stream
+        - Face Maintenance Bay (Galahad Fortress)
+- Region: Fallen Arm
+    - Category: Achievements
+        - A Village of Machines
+        - Neural Network
+        - Honorary Machina
+        - The Heart of the Matter
+        - Braving the Elements
+        - Yeah! We Can Do It!
+        - Burn It Up
+        - The Art of War
+        - I Can Beat Anyone!
+        - Honest Insight
+        - Raging Stalwart
+        - Gallant Hero
+        - Unyielding Devotion
+        - Complete 180
+        - In Rare Form
+        - Getting Crafty
+        - Crafting Friendships
+        - Aim for the Heart!
+        - Chatting the Day Away
+        - Get the Party Started
+        - Stormy Outlook
+        - Angelic Imitation
+    - Category: AffinityChart
+        - Eiz
+        - Eleqa
+        - Karlos
+        - Kazat
+        - Mixik
+        - Natalia
+        - Neonik
+        - Orkatix
+        - Prox
+        - Qofaria
+        - Rakzet
+        - Rizaka
+        - Shilx
+        - Theo
+        - Voltak
+        - Vronik
+        - Xekit
+        - Zarkort
+        - Zilex
+    - Category: AffinityQuests
+        - In Pursuit of Love
+        - Odd Smoke - Resolution
+        - Even In the Chief's Absence
+        - Bored Pelupelu
+        - A Gift For Miko
+        - Fixing a Broken Door
+        - Food Delivery
+        - For My Loved One... (MISSABLE)
+        - To My Loved One... (MISSABLE)
+        - I Want to be a Homs!
+        - Mysterious Noises
+        - Save the Machina!
+        - Protect the Village
+        - Eliminate the Threat
+        - Powerless
+        - Stop the Mechon Rampage!
+        - The Wilted Flower
+        - A Tough Battle
+        - Power Up!
+        - Therapy
+        - Scheduled Inspection
+    - Category: Collectopaedia
+        - Fallen Arm Collectopaedia Page Completion
+        - Fallen Arm Collectopaedia Vegetable Completion
+        - Fallen Arm Collectopaedia Fruit Completion
+        - Fallen Arm Collectopaedia Animal Completion
+        - Fallen Arm Collectopaedia Nature Completion
+        - Fallen Arm Collectopaedia Part Completion
+        - Fallen Arm Collectopaedia Strange Completion
+    - Category: DevelopmentLevels
+        - Fallen Arm Development Level 1
+        - Fallen Arm Development Level 2
+        - Fallen Arm Development Level 3
+        - Fallen Arm Development Level 4
+        - Fallen Arm Development Level 5
+    - Category: HeartToHearts
+        - A Scene Revisited
+        - Recovery and Reflection
+        - Quiet Time
+        - Reawakened Memories
+        - A Day Like Any Other
+        - Riki Have Question
+        - Just Like Old Times
+        - A Family of Two
+        - A Night-Time Chat
+        - Overcoming the Pain
+        - Those Waiting for You
+        - Eternal Scars
+        - Camping Spot
+    - Category: MonsterQuests
+        - Defend Colony 6 - Elite (55% Reconstruction)
+    - Category: StoryQuests
+        - Reunion with Fiora
+        - We Made It
+        - Fiora's Treatment
+    - Category: UniqueMonsters
+        - Aged Leraje (Lv 56)
+        - Affluent Beleth (Lv 57)
+        - Evil Bathin (Lv 54)
+        - Powerful Eligos (Lv 80)
+        - Prosperous Zepar (Lv 56)
+        - Splendid Botis (Lv 58)
+        - Wicked Sallos (Lv 95)
+    - Category: landmarks
+        - Wreckage Beach
+        - Ulna Passage
+        - Inlet Beach
+        - Junks
+        - Giant Mechon Debris
+        - Black Wreckage
+        - Connecting Bridge
+        - Digit 2 Plain
+        - Radiocarpea
+        - Rotating Bulkhead
+        - Distant Fingertip
+    - Category: locations
+        - Silver Wreckage
+        - Zakt Spring
+        - Jifum Beach
+        - Transformer Area
+        - 5th Pulse Zone
+        - Power Pipe Ruins
+        - Hidden Machina Village
+        - Ether Light (Fallen Arm)
+        - Radiocarpea Coast
+        - Digit 1
+        - Digit 1 Crevasse
+        - Digit 2
+        - Digit 3
+        - Digit 4
+        - Digit 5
+        - Digit 5 Beach
+        - Ether Exhaust System
+- Region: Mechonis Field (MISSABLE)
+    - Category: Achievements
+        - A Fix on the Solution
+        - Auber the Top
+    - Category: AffinityChart
+        - Bozatrox
+    - Category: AffinityQuests
+        - The History of Mechonis (MISSABLE)
+        - Mending Memories
+        - Resolution - Father
+        - Resolution - Mother
+        - The Oath Sword
+        - A Weapon Just For Me (MISSABLE)
+        - Best Boots (MISSABLE)
+    - Category: ChallengeQuests
+        - Challenge Quest 1 (MISSABLE)
+        - Challenge Quest 2 (MISSABLE)
+    - Category: Collectopaedia
+        - Mechonis Field Collectopaedia Page Completion
+        - Mechonis Field Collectopaedia Vegetable Completion
+        - Mechonis Field Collectopaedia Flower Completion
+        - Mechonis Field Collectopaedia Bug Completion
+        - Mechonis Field Collectopaedia Nature Completion
+        - Mechonis Field Collectopaedia Part Completion
+        - Mechonis Field Collectopaedia Strange Completion
+    - Category: Mechonis Field Bosses
+        - Jade Face
+    - Category: MonsterQuests
+        - Monster Quest (MISSABLE)
+    - Category: StoryQuests
+        - Aiming for the Top
+        - Get the 3rd Lift Moving
+        - Opening the Bulkhead
+        - The High-Velocity Lift
+        - Need Power!
+    - Category: UniqueMonsters
+        - Amorous Arca (Lv 57)
+        - Commander Oracion (Lv 61)
+        - Destroyer Salvacion (Lv 59)
+        - Infernal Crocell (Lv 58)
+        - Revolutionary Bifrons (Lv 60)
+    - Category: landmarks
+        - Left Leg Cooling Outlet
+        - GF Main Power Switch
+        - 1F Main Power Switch
+        - 3F Main Power Switch
+        - Lower Bulkhead Bridge
+        - Upper Bulkhead Bridge
+        - 4F Main Power Switch
+        - Great Battle Scar
+        - Machina Refuge
+        - 1st Zebrai Bulkhead
+        - 2nd Gamalt Bulkhead
+    - Category: locations
+        - 1st Lift - B1F
+        - Spent Fuel Tank
+        - 1st Lift - GF
+        - 2nd Lift - GF
+        - 2nd Lift - 1F
+        - 3rd Lift Engine Room
+        - 2F Observation Post
+        - 3rd Lift - 2F
+        - 3rd Lift - 3F
+        - Bulkhead Controls
+        - Ether Gear Store
+        - Patella Exhaust
+        - Power Supply Area 1
+        - Power Supply Area 2
+        - High-Velocity Lift
+- Region: Central Factory (MISSABLE)
+    - Category: Achievements
+        - Worldly Wise
+        - Smashing... to Pieces!
+        - Adorable Randomness
+        - Serene Candour
+    - Category: AffinityQuests
+        - Nic's Training
+        - Nic's Final Test
+        - Eliminate the Backup! (MISSABLE)
+        - Roof Battle (MISSABLE)
+        - Daring Assault (MISSABLE)
+        - New Weapon for Fiora
+    - Category: Central Factory Bosses
+        - Apocrypha Generator (Boss)
+    - Category: Collectopaedia
+        - Central Factory Collectopaedia Page Completion
+        - Central Factory Collectopaedia Vegetable Completion
+        - Central Factory Collectopaedia Animal Completion
+        - Central Factory Collectopaedia Bug Completion
+        - Central Factory Collectopaedia Nature Completion
+        - Central Factory Collectopaedia Part Completion
+        - Central Factory Collectopaedia Strange Completion
+    - Category: StoryQuests
+        - To the Central Tower
+        - Maintenance Wing Escape
+        - Find a Path to the Top
+        - Materials for a Bomb
+        - The Central Tower Barrier
+    - Category: UniqueMonsters
+        - Flailing Bracken (Lv 73)
+        - Balanced Palamedes (Lv 62)
+        - Beautiful Vagul (Lv 60)
+        - Faithful Lancelot (Lv 59)
+        - Magestic Mordred (Lv 70)
+        - Mild Florence (Lv 58)
+        - Sinful Lamorak (Lv 63)
+        - Synchronised Gaheris (Lv 61)
+        - Temporal Gawain (Lv 63)
+        - Venerable Focalor (Lv 64)
+    - Category: landmarks
+        - Port Terminal
+        - Control Tower (Central Factory)
+        - Central Warehouse Lift
+        - Factory Vent
+        - Tower Boarding Gate
+        - Regeneration Control
+        - Agniratha Transporter
+        - Ventilation Conduit
+        - Bridge to Apocrypha
+    - Category: locations
+        - Central Gate
+        - Landing Strip 1
+        - Landing Strip 2
+        - Maintenance Entrance 1
+        - Maintenance Wing
+        - Storage Depot (Central Factory)
+        - Main Factory Gate
+        - Central Lift
+        - Central Tower Lift
+        - Training Ground Roof
+        - Large Mechon Store
+        - Mechon Factory
+        - Central Tower Roof
+        - Face Maintenance Bay (Central Factory)
+        - Apocrypha Generator (Location)
+- Region: Agniratha (MISSABLE)
+    - Category: Achievements
+        - Master Hunter
+        - Perfecting the Art
+        - Spirited Adventurer
+    - Category: AffinityQuests
+        - The History of the Capital (MISSABLE)
+        - Telethia Investigation 1
+        - Telethia Investigation 2
+    - Category: Agniratha Bosses
+        - Egil
+        - Gadolt
+        - Yaldabaoth (Agniratha)
+    - Category: ChallengeQuests
+        - Military Status 1 - 1
+        - Military Status 1 - 2
+        - Military Status 2 - 1
+        - Military Status 2 - 2
+    - Category: Collectopaedia
+        - Agniratha Collectopaedia Page Completion
+        - Agniratha Collectopaedia Fruit Completion
+        - Agniratha Collectopaedia Flower Completion
+        - Agniratha Collectopaedia Bug Completion
+        - Agniratha Collectopaedia Nature Completion
+        - Agniratha Collectopaedia Part Completion
+        - Agniratha Collectopaedia Strange Completion
+    - Category: MaterialQuests
+        - Agniratha Beautification 1
+        - Agniratha Beautification 2
+    - Category: MonsterQuests
+        - Civil Protection 1 - 1
+        - Civil Protection 1 - 2
+        - Civil Protection 1 - 3
+        - Civil Protection 2 - 1
+        - Civil Protection 2 - 2
+        - Civil Protection 2 - 3
+    - Category: StoryQuests
+        - Shrine Transport
+        - Pillar Verification Devices
+    - Category: UniqueMonsters
+        - Vagabond Allocer (Lv 63)
+        - Experienced Tristan (Lv 64)
+        - Destructive Bors (Lv 64)
+        - Soothed Aglovale (Lv 65)
+        - Meditative Varla (Lv 65)
+        - Sentimental Flamral (Lv 66)
+        - Wrathful Orobas (Lv 67)
+        - Wise Gremory (Lv 68)
+    - Category: landmarks
+        - Factory Transporter
+        - Central Tower
+        - 1st Control Platform
+        - 4th Control Platform
+        - Meyneth Statue
+        - 2nd Control Platform
+        - 3rd Control Platform
+        - Shrine Transporter
+        - Meyneth Shrine
+        - Seven Sage Cloister
+    - Category: locations
+        - Cleas Pillar
+        - Residential District 1
+        - Residential District 2
+        - Calcos Pillar
+        - Helas Pillar
+        - Dios Pillar
+        - Zedonia Plaza
+        - Telethia Bridge
+        - Data Centre
+        - Legislative District
+        - Judicial District
+        - Worship Terrace
+        - Meyneth Cloister
+- Region: Mechonis Core
+    - Category: Achievements
+        - Roots Across the World
+        - World Hero
+        - Building a Community
+        - Bursting at the Seams
+        - Please! No More!
+        - Telethia Tracker
+        - Telethia Triumph
+        - Critical Mass
+        - Team With a Capital T
+        - Down to a Fine Art
+        - Art-to-Art
+        - State of the Art
+        - Sharing the Knowledge
+        - Secret Weapon
+        - Dream Team
+        - Crystallised Luck
+        - Crafting Your Destiny
+        - Firing on All Cylinders
+        - Stamp of Insanity
+        - Love at First Bite
+        - Party's in Full Swing
+        - Treasure Trove
+        - Shining Impracticality
+    - Category: AffinityQuests
+        - A Token of Friendship
+        - The Elite Captain's Anguish
+        - Getting to Know Dorothy
+        - Getting to Know Minnie
+        - Birthday Shoes
+        - Friendship Tokens
+        - The Book of Bafalgar
+        - The Blood of Bafalgar
+        - The Path of Bafalgar
+        - The Coffin of Bafalgar
+        - The Gratitude of Bafalgar
+        - A Flower for a Rose
+        - Battling Brutes
+        - Supplies for Satorl
+        - Melancholy Tyrea
+        - Securing Provisions
+        - Delivering the Undeliverable
+        - Finding the Unfindable
+        - Lifespan of a Machina
+        - A Dauntless Trader
+        - A Poet's Concerns
+        - For a Friend
+        - A Merciful End
+        - A Release From Duty
+        - The Imperial Ceremony
+        - Imperial Ceremony Offerings
+        - Final Challenge of the Sage
+        - A Memento of Daddy
+        - Restoring the Capital
+        - Restoring the Capital 2
+        - Broken Ether Furnace
+        - Broken Ether Furnace 2
+        - Bana the Betrayer
+        - Presents for Priceless Pupils
+        - Secret Research
+        - Ancient High Entia Mystery
+        - Vidian Rescue Mission (MISSABLE)
+        - The Final Giants' Ruins
+        - The Giants' Treasures
+        - Stunted Growth
+        - The Exhaust Pump
+        - The Mini Reactor
+        - Transmission Bypass
+    - Category: ChallengeQuests
+        - Challenge (Satorl Marsh)
+    - Category: Collectopaedia
+        - Other Collectopaedia Page Completion
+        - Other Collectopaedia Bug Completion
+        - Other Collectopaedia Part Completion
+        - Other Collectopaedia Strange Completion
+    - Category: Colony 6 Bosses
+        - Sani Telethia
+        - Sureny Telethia
+    - Category: HeartToHearts
+        - The Legend of the Spider
+        - Renewed Determination
+        - Hopes and Plans
+    - Category: Mechonis Core Bosses
+        - Yaldabaoth (Mechonis Core)
+        - Zanza (Mechonis Core)
+    - Category: MonsterQuests
+        - Defend Colony 6 - Ancient (75% Reconstruction)
+        - Defend Colony 6 - Demon (95% Reconstruction)
+    - Category: StoryQuests
+        - The Missing Boy
+        - Save Bionis
+    - Category: SuperBosses
+        - SUPERBOSS Despotic Arsene (Lv 108)
+        - SUPERBOSS Avalanche Abaasy (Lv 120)
+        - SUPERBOSS Blizzard Belgazas (Lv 114)
+        - SUPERBOSS Final Marcus (Lv 100)
+        - SUPERBOSS Ancient Daedala (Lv 105)
+    - Category: UniqueMonsters
+        - Erratic Goliante (Lv 97)
+        - Judicious Bunnitzol (Lv 94)
+        - Musical Vanflare (Lv 93)
+        - Plump Sprahda (Lv 92)
+        - Protective Torquidon (Lv 96)
+        - Reckless Galdon (Lv 95)
+        - Dazzling Tolosnia (Lv 97)
+        - Firework Geldesia (Lv 98)
+        - Reckless Zanden (Lv 98)
+        - Field Altrich (Lv 76)
+        - Immovable Gonzalez (Lv 90)
+        - Mysterious Barnaby (Lv 75)
+        - Territorial Rotbart (Lv 81)
+        - Eternal Palsadia (Lv 91)
+        - Indomitable Daulton (Lv 85)
+        - Illustrious Golteus (Lv 98)
+        - Magnificent Digalus (Lv 99)
+        - Unreliable Rezno (Lv 96)
+        - Wandering Amon (Lv 98)
+    - Category: landmarks
+        - Bafalgar Tomb
+        - Heavenly Window
+    - Category: locations
+        - Hidden Warehouse
+        - Forgotten Cave
+        - Emergency Warehouse
+        - Soothsayer's Crypt
+        - Prayer Room
+        - Bone Corridor
+        - Trader's Stopover
+        - Arachno Feeding Lair
+        - Path of Absolution
+        - Mechonis Core (Location)
+- Region: Bionis' Interior (2nd Visit)
+    - Category: Achievements
+        - The Hopeful Survivors
+        - Good and Fixed
+    - Category: AffinityQuests
+        - Replica Monado 1
+        - Replica Monado 2
+        - Replica Monado 3
+        - Replica Monado 4
+        - Replica Monado 5
+    - Category: Collectopaedia
+        - Bionis' Interior Collectopaedia Page Completion
+        - Bionis' Interior Collectopaedia Vegetable Completion
+        - Bionis' Interior Collectopaedia Animal Completion
+        - Bionis' Interior Collectopaedia Strange Completion
+    - Category: HeartToHearts
+        - Fiora's Body
+        - Kind Words
+    - Category: UniqueMonsters
+        - Active Impulso (Lv 72)
+        - Clandestine Apety (Lv 74)
+        - Dark King Barbarus (Lv 77)
+        - Ghostly Mahatos (Lv 76)
+        - Mystical Klesida (Lv 72)
+        - Officer Robusto (Lv 75)
+        - Victorious Gross (Lv 73)
+        - Vivid Anstan (Lv 75)
+    - Category: landmarks
+        - Interior Landing Site
+        - Spinal Nerve Tower
+        - Pars Sympathica Tower
+        - Terminal Nerve Tower
+        - Heart Entrance
+    - Category: locations
+        - Third Lung Bronchus
+        - Second Lung
+        - Aprtoc Pathway
+        - Venous Plexus
+        - First Lung
+        - Vein Crossroad
+        - Terminal Vein
+- Region: Prison Island (2nd Visit)
+    - Category: Achievements
+        - Ace of Hearts
+    - Category: Collectopaedia
+        - Prison Island Collectopaedia Page Completion
+        - Prison Island Collectopaedia Fruit Completion
+        - Prison Island Collectopaedia Animal Completion
+        - Prison Island Collectopaedia Bug Completion
+        - Prison Island Collectopaedia Nature Completion
+        - Prison Island Collectopaedia Part Completion
+        - Prison Island Collectopaedia Strange Completion
+    - Category: CollectorGoal
+        - Collector Goal
+    - Category: HeartToHearts
+        - Untold Feelings
+        - Journey's End
+        - Before the Final Battle
+    - Category: MonsterHunterGoal
+        - Monster Hunter Goal
+    - Category: Prison Island (2nd Visit) Bosses
+        - Demon Pavlovsk
+        - Disciple Dickson
+        - Dragon King Alcar
+        - Master Obart
+        - Obelis Obart
+    - Category: StoryQuests
+        - Chase Dickson
+        - Path to the Top
+    - Category: SuperMonsterHunterGoal
+        - Super Monster Hunter Goal
+    - Category: UniqueMonsters
+        - Abnormal Clone Barg (Lv 77)
+        - Ageless Moabit (Lv 75)
+        - Cold Ageshu (Lv 77)
+        - Fiendish Auburn (Lv 78)
+        - Inferno Heinrich (Lv 76)
+        - Majestic Clone Barg (Lv 77)
+        - Masterful Gigapur (Lv 77)
+        - Serene Imlaly (Lv 76)
+    - Category: landmarks
+        - Bridge of Grief
+        - Prison Gate (2nd Visit)
+        - Empty Throne
+        - Gondorl Cathedral
+        - Prison Terrace (2nd Visit)
+    - Category: locations
+        - Damaged Transporter
+        - Central Hall (2nd Visit)
+        - First Sanctum
+        - Second Sanctum
+        - Banquet Hall
+        - Kitchen
+        - Battle Arena
+        - Behemoth Nest
+        - Arena
+        - Great Canyon (2nd Visit)
+        - Gravina Bridge
+        - Corridor of Silence
+        - Travalga Bridge
+        - Basverg Belfry
+- Region: Memory Space
+    - Category: Memory Space Boss
+        - Zanza the Divine
+    - Category: landmarks
+        - Saturn
+        - Jupiter
+        - Mars
+        - Moon
+        - Sentient Genesis
+    - Category: locations
+        - Sightseer
