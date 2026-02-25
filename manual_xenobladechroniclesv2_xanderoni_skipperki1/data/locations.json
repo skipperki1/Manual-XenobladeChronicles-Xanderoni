@@ -151,7 +151,7 @@
   },
   {
     "name": "Gentle Rodriguez (Lv 40)",
-    "region": "Makna Forest",
+    "region": "Frontier Village",
     "category": [
       "Colony 9 Unique Monsters","UniqueMonsters"
     ],
@@ -159,7 +159,7 @@
   },
   {
     "name": "Shadeless Matrix (Lv 44)",
-    "region": "Makna Forest",
+    "region": "Alcamoth",
     "category": [
       "Colony 9 Unique Monsters","UniqueMonsters"
     ],
@@ -167,7 +167,7 @@
   },
   {
     "name": "Flailing Bracken (Lv 73)",
-    "region": "Central Factory (MISSABLE)",
+    "region": "Agniratha (MISSABLE)",
     "category": [
       "Colony 9 Unique Monsters","UniqueMonsters"
     ],
@@ -673,7 +673,7 @@
   },
   {
     "name": "Erratic Goliante (Lv 97)",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Tephra Cave Unique Monsters","UniqueMonsters"
     ],
@@ -689,7 +689,7 @@
   },
   {
     "name": "Judicious Bunnitzol (Lv 94)",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Tephra Cave Unique Monsters","UniqueMonsters"
     ],
@@ -705,7 +705,7 @@
   },
   {
     "name": "Musical Vanflare (Lv 93)",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Tephra Cave Unique Monsters","UniqueMonsters"
     ],
@@ -713,7 +713,7 @@
   },
   {
     "name": "Plump Sprahda (Lv 92)",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Tephra Cave Unique Monsters","UniqueMonsters"
     ],
@@ -721,7 +721,7 @@
   },
   {
     "name": "Protective Torquidon (Lv 96)",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Tephra Cave Unique Monsters","UniqueMonsters"
     ],
@@ -729,7 +729,7 @@
   },
   {
     "name": "Reckless Galdon (Lv 95)",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Tephra Cave Unique Monsters","UniqueMonsters"
     ],
@@ -753,7 +753,7 @@
   },
   {
     "name": "Dazzling Tolosnia (Lv 97)",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Tephra Cave Unique Monsters","UniqueMonsters"
     ],
@@ -761,7 +761,7 @@
   },
   {
     "name": "Firework Geldesia (Lv 98)",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Tephra Cave Unique Monsters","UniqueMonsters"
     ],
@@ -769,7 +769,7 @@
   },
   {
     "name": "Reckless Zanden (Lv 98)",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Tephra Cave Unique Monsters","UniqueMonsters"
     ],
@@ -962,21 +962,21 @@
   },
   {
     "name": "Armoured Rockwell (Lv 82)",
-    "region": "Bionis' Leg",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Bionis' Leg Unique Monsters","UniqueMonsters"
     ]
   },
   {
     "name": "Canyon Valencia (Lv 78)",
-    "region": "Bionis' Leg",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Bionis' Leg Unique Monsters","UniqueMonsters"
     ]
   },
   {
     "name": "Clifftop Bayern (Lv 32)",
-    "region": "Bionis' Leg",
+    "region": "Satorl Marsh",
     "category": [
       "Bionis' Leg Unique Monsters","UniqueMonsters"
     ]
@@ -991,7 +991,7 @@
   },
   {
     "name": "Immovable Gonzalez (Lv 90)",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Bionis' Leg Unique Monsters","UniqueMonsters"
     ],
@@ -1031,7 +1031,7 @@
   },
   {
     "name": "Territorial Rotbart (Lv 81)",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Bionis' Leg Unique Monsters","UniqueMonsters"
     ],
@@ -1723,7 +1723,7 @@
   },
   {
     "name": "SUPERBOSS Despotic Arsene (Lv 108)",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Satorl Marsh Unique Monsters","SuperBosses"
     ],
@@ -1731,7 +1731,7 @@
   },
   {
     "name": "Eternal Palsadia (Lv 91)",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Satorl Marsh Unique Monsters","UniqueMonsters"
     ],
@@ -1739,7 +1739,7 @@
   },
   {
     "name": "Indomitable Daulton (Lv 85)",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Satorl Marsh Unique Monsters","UniqueMonsters"
     ],
@@ -1787,7 +1787,7 @@
   },
   {
     "name": "Veteran Yozel (Lv 83)",
-    "region": "Satorl Marsh",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Satorl Marsh Unique Monsters","UniqueMonsters"
     ],
@@ -2047,7 +2047,7 @@
   },
   {
     "name": "Illustrious Golteus (Lv 98)",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Makna Forest Unique Monsters","UniqueMonsters"
     ],
@@ -2063,7 +2063,7 @@
   },
   {
     "name": "Magnificent Digalus (Lv 99)",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Makna Forest Unique Monsters","UniqueMonsters"
     ],
@@ -2087,7 +2087,7 @@
   },
   {
     "name": "Unreliable Rezno (Lv 96)",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Makna Forest Unique Monsters","UniqueMonsters"
     ],
@@ -2678,7 +2678,7 @@
   },
   {
     "name": "Bizarre Ragoel (Lv 88)",
-    "region": "Eryth Sea",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Eryth Sea Unique Monsters","UniqueMonsters"
     ],
@@ -2686,7 +2686,7 @@
   },
   {
     "name": "Clamorous Dablon (Lv 92)",
-    "region": "Eryth Sea",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Eryth Sea Unique Monsters","UniqueMonsters"
     ],
@@ -2702,7 +2702,7 @@
   },
   {
     "name": "Deadly Medorlo (Lv 93)",
-    "region": "Eryth Sea",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Eryth Sea Unique Monsters","UniqueMonsters"
     ],
@@ -2726,7 +2726,7 @@
   },
   {
     "name": "Lightspeed Sonid (Lv 44)",
-    "region": "Eryth Sea",
+    "region": "Alcamoth",
     "category": [
       "Eryth Sea Unique Monsters","UniqueMonsters"
     ],
@@ -2750,7 +2750,7 @@
   },
   {
     "name": "Sacred Zagamei (Lv 89)",
-    "region": "Eryth Sea",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Eryth Sea Unique Monsters","UniqueMonsters"
     ],
@@ -2758,7 +2758,7 @@
   },
   {
     "name": "Stormy Belagon (Lv 87)",
-    "region": "Eryth Sea",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Eryth Sea Unique Monsters","UniqueMonsters"
     ],
@@ -3333,7 +3333,7 @@
   },
   {
     "name": "Furious Jozan (Lv 55)",
-    "region": "High Entia Tomb",
+    "region": "Sword Valley (MISSABLE)",
     "category": [
       "High Entia Tomb Unique Monsters","UniqueMonsters"
     ],
@@ -3547,7 +3547,7 @@
   },
   {
     "name": "SUPERBOSS Avalanche Abaasy (Lv 120)",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Valak Mountain Unique Monsters","SuperBosses"
     ],
@@ -3563,7 +3563,7 @@
   },
   {
     "name": "SUPERBOSS Blizzard Belgazas (Lv 114)",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Valak Mountain Unique Monsters","SuperBosses"
     ],
@@ -3571,7 +3571,7 @@
   },
   {
     "name": "Exposure Wolfol (Lv 97)",
-    "region": "Valak Mountain",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Valak Mountain Unique Monsters","UniqueMonsters"
     ],
@@ -3579,7 +3579,7 @@
   },
   {
     "name": "SUPERBOSS Final Marcus (Lv 100)",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Valak Mountain Unique Monsters","SuperBosses"
     ],
@@ -3627,7 +3627,7 @@
   },
   {
     "name": "Wandering Amon (Lv 98)",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Valak Mountain Unique Monsters","UniqueMonsters"
     ],
@@ -4108,7 +4108,7 @@
   },
   {
     "name": "SUPERBOSS Ancient Daedala (Lv 105)",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Fallen Arm Unique Monsters","SuperBosses"
     ],
@@ -4124,7 +4124,7 @@
   },
   {
     "name": "Powerful Eligos (Lv 80)",
-    "region": "Fallen Arm",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Fallen Arm Unique Monsters","UniqueMonsters"
     ],
@@ -4148,7 +4148,7 @@
   },
   {
     "name": "Wicked Sallos (Lv 95)",
-    "region": "Fallen Arm",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Fallen Arm Unique Monsters","UniqueMonsters"
     ],
@@ -4661,7 +4661,7 @@
   },
   {
     "name": "Magestic Mordred (Lv 70)",
-    "region": "Central Factory (MISSABLE)",
+    "region": "Agniratha (MISSABLE)",
     "category": [
       "Central Factory Unique Monsters","UniqueMonsters"
     ],

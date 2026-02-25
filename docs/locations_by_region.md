@@ -361,9 +361,6 @@
     - Category: UniqueMonsters
         - Speedy Ramshyde (Lv 10)
         - Enchanting Grune (Lv 13)
-        - Armoured Rockwell (Lv 82)
-        - Canyon Valencia (Lv 78)
-        - Clifftop Bayern (Lv 32)
         - Napping Volfen (Lv 17)
         - Night Cardamon (Lv 18)
         - Sniper Paramecia (Lv 15)
@@ -539,6 +536,7 @@
         - The Ancient Ceremony
         - Ancient Ceremony Offerings
     - Category: UniqueMonsters
+        - Clifftop Bayern (Lv 32)
         - Aggressive Cornelius (Lv 28)
         - Amber Fischer (Lv 27)
         - Cautious Balteid (Lv 26)
@@ -547,7 +545,6 @@
         - Sunlight Schvaik (Lv 30)
         - Swift Zektol (Lv 28)
         - Tumultuous Felix (Lv 27)
-        - Veteran Yozel (Lv 83)
     - Category: landmarks
         - Kelsher Wetland
         - Nopon Merchant Camp
@@ -620,8 +617,6 @@
     - Category: StoryQuests
         - Mystery Girl Rescue
     - Category: UniqueMonsters
-        - Gentle Rodriguez (Lv 40)
-        - Shadeless Matrix (Lv 44)
         - Agile Albatro (Lv 33)
         - Breezy Zolos (Lv 37)
         - Elder Gragus (Lv 34)
@@ -785,6 +780,8 @@
         - Leone Telethia
     - Category: StoryQuests
         - An Errand for the Heropon
+    - Category: UniqueMonsters
+        - Gentle Rodriguez (Lv 40)
     - Category: landmarks
         - Entry Bridge
         - Nopon Tower
@@ -849,17 +846,11 @@
         - Monster Quest 1 (Eryth Sea)
         - Monster Quest 2 (Eryth Sea)
     - Category: UniqueMonsters
-        - Bizarre Ragoel (Lv 88)
-        - Clamorous Dablon (Lv 92)
         - Cumulus Danaemos (Lv 41)
-        - Deadly Medorlo (Lv 93)
         - Flabbergasted Jerome (Lv 38)
         - Funeral Gozra (Lv 42)
-        - Lightspeed Sonid (Lv 44)
         - Peeling Kircheis (Lv 38)
         - Proper Bandaz (Lv 39)
-        - Sacred Zagamei (Lv 89)
-        - Stormy Belagon (Lv 87)
         - Subterranean Zomar (Lv 40)
         - Tempestuous Edegia (Lv 39)
         - Turbulent Belmo (Lv 36)
@@ -1017,6 +1008,9 @@
         - Search Quest 4 (Alcamoth) (MISSABLE)
     - Category: StoryQuests
         - Save the Worker
+    - Category: UniqueMonsters
+        - Shadeless Matrix (Lv 44)
+        - Lightspeed Sonid (Lv 44)
     - Category: landmarks
         - Main Entrance (Alcamoth)
         - Fountain of Hope
@@ -1065,7 +1059,6 @@
         - Sister Seals
     - Category: UniqueMonsters
         - Calm Anzabi (Lv 38)
-        - Furious Jozan (Lv 55)
     - Category: landmarks
         - Tomb Approach
         - Sealed Chamber
@@ -1154,7 +1147,6 @@
     - Category: UniqueMonsters
         - Agile Barbatos (Lv 47)
         - Barbaric Sitri (Lv 47)
-        - Exposure Wolfol (Lv 97)
         - Glorious Buer (Lv 45)
         - Hidden Gamigin (Lv 49)
         - Moonlight Paimon (Lv 46)
@@ -1210,6 +1202,7 @@
     - Category: Sword Valley Bosses
         - Mumkhar (Sword Valley)
     - Category: UniqueMonsters
+        - Furious Jozan (Lv 55)
         - Benevolent Aim (Lv 51)
         - Defective Ipos (Lv 50)
         - Fate Labolas (Lv 51)
@@ -1383,10 +1376,8 @@
         - Aged Leraje (Lv 56)
         - Affluent Beleth (Lv 57)
         - Evil Bathin (Lv 54)
-        - Powerful Eligos (Lv 80)
         - Prosperous Zepar (Lv 56)
         - Splendid Botis (Lv 58)
-        - Wicked Sallos (Lv 95)
     - Category: landmarks
         - Wreckage Beach
         - Ulna Passage
@@ -1515,11 +1506,9 @@
         - Materials for a Bomb
         - The Central Tower Barrier
     - Category: UniqueMonsters
-        - Flailing Bracken (Lv 73)
         - Balanced Palamedes (Lv 62)
         - Beautiful Vagul (Lv 60)
         - Faithful Lancelot (Lv 59)
-        - Magestic Mordred (Lv 70)
         - Mild Florence (Lv 58)
         - Sinful Lamorak (Lv 63)
         - Synchronised Gaheris (Lv 61)
@@ -1592,6 +1581,8 @@
         - Shrine Transport
         - Pillar Verification Devices
     - Category: UniqueMonsters
+        - Flailing Bracken (Lv 73)
+        - Magestic Mordred (Lv 70)
         - Vagabond Allocer (Lv 63)
         - Experienced Tristan (Lv 64)
         - Destructive Bors (Lv 64)
@@ -1715,32 +1706,9 @@
     - Category: StoryQuests
         - The Missing Boy
         - Save Bionis
-    - Category: SuperBosses
-        - SUPERBOSS Despotic Arsene (Lv 108)
-        - SUPERBOSS Avalanche Abaasy (Lv 120)
-        - SUPERBOSS Blizzard Belgazas (Lv 114)
-        - SUPERBOSS Final Marcus (Lv 100)
-        - SUPERBOSS Ancient Daedala (Lv 105)
     - Category: UniqueMonsters
-        - Erratic Goliante (Lv 97)
-        - Judicious Bunnitzol (Lv 94)
-        - Musical Vanflare (Lv 93)
-        - Plump Sprahda (Lv 92)
-        - Protective Torquidon (Lv 96)
-        - Reckless Galdon (Lv 95)
-        - Dazzling Tolosnia (Lv 97)
-        - Firework Geldesia (Lv 98)
-        - Reckless Zanden (Lv 98)
         - Field Altrich (Lv 76)
-        - Immovable Gonzalez (Lv 90)
         - Mysterious Barnaby (Lv 75)
-        - Territorial Rotbart (Lv 81)
-        - Eternal Palsadia (Lv 91)
-        - Indomitable Daulton (Lv 85)
-        - Illustrious Golteus (Lv 98)
-        - Magnificent Digalus (Lv 99)
-        - Unreliable Rezno (Lv 96)
-        - Wandering Amon (Lv 98)
     - Category: landmarks
         - Bafalgar Tomb
         - Heavenly Window
@@ -1831,9 +1799,43 @@
     - Category: StoryQuests
         - Chase Dickson
         - Path to the Top
+    - Category: SuperBosses
+        - SUPERBOSS Despotic Arsene (Lv 108)
+        - SUPERBOSS Avalanche Abaasy (Lv 120)
+        - SUPERBOSS Blizzard Belgazas (Lv 114)
+        - SUPERBOSS Final Marcus (Lv 100)
+        - SUPERBOSS Ancient Daedala (Lv 105)
     - Category: SuperMonsterHunterGoal
         - Super Monster Hunter Goal
     - Category: UniqueMonsters
+        - Erratic Goliante (Lv 97)
+        - Judicious Bunnitzol (Lv 94)
+        - Musical Vanflare (Lv 93)
+        - Plump Sprahda (Lv 92)
+        - Protective Torquidon (Lv 96)
+        - Reckless Galdon (Lv 95)
+        - Dazzling Tolosnia (Lv 97)
+        - Firework Geldesia (Lv 98)
+        - Reckless Zanden (Lv 98)
+        - Armoured Rockwell (Lv 82)
+        - Canyon Valencia (Lv 78)
+        - Immovable Gonzalez (Lv 90)
+        - Territorial Rotbart (Lv 81)
+        - Eternal Palsadia (Lv 91)
+        - Indomitable Daulton (Lv 85)
+        - Veteran Yozel (Lv 83)
+        - Illustrious Golteus (Lv 98)
+        - Magnificent Digalus (Lv 99)
+        - Unreliable Rezno (Lv 96)
+        - Bizarre Ragoel (Lv 88)
+        - Clamorous Dablon (Lv 92)
+        - Deadly Medorlo (Lv 93)
+        - Sacred Zagamei (Lv 89)
+        - Stormy Belagon (Lv 87)
+        - Exposure Wolfol (Lv 97)
+        - Wandering Amon (Lv 98)
+        - Powerful Eligos (Lv 80)
+        - Wicked Sallos (Lv 95)
         - Abnormal Clone Barg (Lv 77)
         - Ageless Moabit (Lv 75)
         - Cold Ageshu (Lv 77)
