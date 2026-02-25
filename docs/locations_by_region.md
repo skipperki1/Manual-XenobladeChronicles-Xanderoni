@@ -248,7 +248,7 @@
         - Mag Mell Ruins
         - Rear Entrance
         - Spring of Grief
-        - Villa Lake
+        - Vilia Lake
         - Leg Pass
     - Category: locations
         - Caterpile Nest
@@ -393,7 +393,7 @@
         - Windy Cave
         - Maguel Road
         - Raguel Lake
-        - Vilera Hill
+        - Viliera Hill
         - Rho Oasis
         - Gaur Plain
         - Tirkin Headquarters
@@ -605,7 +605,7 @@
     - Category: AffinityChart
         - Nopon Sage
     - Category: AffinityQuests
-        - Young Captain's Challenge
+        - A Young Captain's Challenge
         - Legend of Mythical Empress
         - Rest in Peace
         - A Gutsy Trader
@@ -1139,7 +1139,6 @@
         - Chilkins and Antols
         - Valak Mountain Research
         - The Freezing Nopon
-        - The Magma Rock
         - Bad Timing
         - Chilkin Changes
         - The Balance of Power
@@ -1160,6 +1159,8 @@
         - Monster Quest 2 (Valak Mountain)
         - Monster Quest 3 (Valak Mountain)
         - Monster Quest 4 (Valak Mountain)
+    - Category: StoryQuests
+        - The Magma Rock
     - Category: UniqueMonsters
         - Agile Barbatos (Lv 47)
         - Barbaric Sitri (Lv 47)
@@ -1251,11 +1252,6 @@
     - Category: Achievements
         - World Shaker
         - Quantum Killer Combo
-    - Category: AffinityQuests
-        - Lift Battle
-        - Supply Station Battle
-        - Turbine Battle
-        - Fiora's Conviction
     - Category: Collectopaedia
         - Galahad Fortress Collectopaedia Page Completion
         - Galahad Fortress Collectopaedia Bug Completion
@@ -1263,6 +1259,11 @@
         - Galahad Fortress Collectopaedia Strange Completion
     - Category: Galahad Fortress Bosses
         - Gold Face (Galahad Fortress)
+    - Category: StoryQuests
+        - Lift Battle
+        - Supply Station Battle
+        - Turbine Battle
+        - Fiora's Conviction
     - Category: UniqueMonsters
         - Glacier Acon (Lv 52)
         - Glorious Jurom (Lv 55)
@@ -1798,7 +1799,7 @@
     - Category: locations
         - Third Lung Bronchus
         - Second Lung
-        - Aprtoc Pathway
+        - Aortic Pathway
         - Venous Plexus
         - First Lung
         - Vein Crossroad

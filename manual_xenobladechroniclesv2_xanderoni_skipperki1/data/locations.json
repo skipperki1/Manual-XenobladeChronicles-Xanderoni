@@ -636,7 +636,7 @@
     ]
   },
   {
-    "name": "Villa Lake",
+    "name": "Vilia Lake",
     "region": "Tephra Cave",
     "category": [
       "Tephra Cave Landmarks","landmarks"
@@ -5717,7 +5717,7 @@
     "name": "Delivering Food",
     "region": "Colony 9",
     "category": [
-      "Colony 9 Story Quests","StoryQuests"
+      "Colony 9 Quests (Story)","StoryQuests"
     ]
   },
   {
@@ -5829,7 +5829,7 @@
     "requires": "|Colony 6 Reconstruction Housing Level:1| AND |Colony 6 Reconstruction Commerce Level:1| AND |Colony 6 Reconstruction Nature Level:1| AND |Colony 6 Reconstruction Special Level:1|"
   },
   {
-    "name": "Young Captain's Challenge",
+    "name": "A Young Captain's Challenge",
     "region": "Makna Forest",
     "category": [
       "Colony 9 Quests (Development Level 3)","AffinityQuests"
@@ -7433,7 +7433,7 @@
     "name": "The Missing Boy",
     "region": "Mechonis Core",
     "category": [
-      "Eryth Sea Quests","StoryQuests"
+      "Eryth Sea Quests (Story)","StoryQuests"
     ]
   },
   {
@@ -7822,14 +7822,14 @@
     "name": "Chase Dickson",
     "region": "Prison Island (2nd Visit)",
     "category": [
-      "Prison Island (2nd Visit) Story Quests","StoryQuests"
+      "Prison Island (2nd Visit) Quests (Story)","StoryQuests"
     ]
   },
   {
     "name": "Path to the Top",
     "region": "Prison Island (2nd Visit)",
     "category": [
-      "Prison Island (2nd Visit) Story Quests","StoryQuests"
+      "Prison Island (2nd Visit) Quests (Story)","StoryQuests"
     ]
   },
   {
@@ -7885,7 +7885,7 @@
     "name": "The Magma Rock",
     "region": "Valak Mountain",
     "category": [
-      "Valak Mountain Quests","AffinityQuests"
+      "Valak Mountain Quests (Story)","StoryQuests"
     ]
   },
   {
@@ -7955,28 +7955,28 @@
     "name": "Lift Battle",
     "region": "Galahad Fortress (MISSABLE)",
     "category": [
-      "Galahad Fortress Quests","AffinityQuests"
+      "Galahad Fortress Quests (Story)","StoryQuests"
     ]
   },
   {
     "name": "Supply Station Battle",
     "region": "Galahad Fortress (MISSABLE)",
     "category": [
-      "Galahad Fortress Quests","AffinityQuests"
+      "Galahad Fortress Quests (Story)","StoryQuests"
     ]
   },
   {
     "name": "Turbine Battle",
     "region": "Galahad Fortress (MISSABLE)",
     "category": [
-      "Galahad Fortress Quests","AffinityQuests"
+      "Galahad Fortress Quests (Story)","StoryQuests"
     ]
   },
   {
     "name": "Fiora's Conviction",
     "region": "Galahad Fortress (MISSABLE)",
     "category": [
-      "Galahad Fortress Quests","AffinityQuests"
+      "Galahad Fortress Quests (Story)","StoryQuests"
     ]
   },
   {
@@ -8670,7 +8670,7 @@
     ]
   },
   {
-    "name": "Vilera Hill",
+    "name": "Viliera Hill",
     "region": "Bionis' Leg",
     "category": [
       "Bionis' Leg Locations","locations"
@@ -8957,7 +8957,7 @@
     ]
   },
   {
-    "name": "Aprtoc Pathway",
+    "name": "Aortic Pathway",
     "region": "Bionis' Interior (2nd Visit)",
     "category": [
       "Bionis' Interior (2nd Visit) Locations","locations"
