@@ -86,10 +86,6 @@
         - Rocco's Heartful Request
         - Education-Minded Suzanna
         - Pride and Courage
-        - Liliana's Sincere Request
-        - Overworked and Underpaid
-        - The Plan - The Night Before
-        - The Plan - Execution
     - Category: ChallengeQuests
         - Challenge 1 (Colony 9)
         - Challenge 2 (Colony 9)
@@ -116,7 +112,6 @@
     - Category: HeartToHearts
         - Enduring Friendship
         - Sunrise in the Park
-        - Fiora's Cooking
     - Category: MaterialQuests
         - Material Quest 1 (Colony 9)
         - Material Quest 2 (Colony 9)
@@ -199,11 +194,15 @@
     - Category: AffinityQuests
         - Dean's Shady Request
         - Education-Crazy Suzanna
+        - Liliana's Sincere Request
         - Flattened Flowers
         - The Lost Pendant
         - The Plan - Preparation
         - A Young Captain's Suffering
         - A Young Captain's Rise
+        - Overworked and Underpaid
+        - The Plan - The Night Before
+        - The Plan - Execution
         - Arachno Silk Fundraising
         - A Thank You
         - Missing in Action
@@ -342,8 +341,6 @@
         - Colony 6 Development Level 4
         - Colony 6 Development Level 5
     - Category: HeartToHearts
-        - Overlooking the Colony
-        - What Visions May Bring
         - What's On Reyn's Mind
     - Category: MaterialQuests
         - Material Quest 1 (Bionis' Leg) (MISSABLE)
@@ -412,7 +409,6 @@
         - Proof of Status
         - Safety First
         - Secret Mission
-        - Odd Smoke - Investigation
     - Category: Collectopaedia
         - Colony 6 Collectopaedia Page Completion
         - Colony 6 Collectopaedia Flower Completion
@@ -422,7 +418,6 @@
         - Dark Murakmor (Lv 18)
         - Graceful Holand (Lv 19)
     - Category: landmarks
-        - Reconstruction HQ
         - Supply Road
         - Watchpoint Junction
         - Drainage Outlet
@@ -438,12 +433,6 @@
         - Titan's Generosity
     - Category: AffinityChart
         - Otharon
-    - Category: AffinityQuests
-        - Chemist's Reopening
-        - For the Restoration (MISSABLE)
-        - Making a New Path (MISSABLE)
-        - Satata's Younger Brother
-        - A Selfish Girl's Mistake
     - Category: Collectopaedia
         - Ether Mine Collectopaedia Page Completion
         - Ether Mine Collectopaedia Animal Completion
@@ -456,10 +445,10 @@
     - Category: HeartToHearts
         - Watching Over Them
         - Geography Lesson
+        - What Visions May Bring
         - Heir to the Monado
         - Revisiting the Past
         - Strength of Heart
-        - The Colony Reborn
         - One Year On
         - Dunban's Right Arm
         - A Broken Watch
@@ -470,6 +459,7 @@
         - Vengeful Daulton (Lv 22)
         - Elegant Marin (Lv 29)
     - Category: landmarks
+        - Reconstruction HQ
         - Freight Road
         - Misty Path
         - Main Entrance (Colony 6)
@@ -512,6 +502,11 @@
         - Mementos of a Lost Son
         - Désirée's Future
         - The Gem Man's Invention
+        - Chemist's Reopening
+        - For the Restoration (MISSABLE)
+        - Making a New Path (MISSABLE)
+        - Satata's Younger Brother
+        - A Selfish Girl's Mistake
         - Kacha's Kidnapping
         - Making Camp
         - The Giants' Key
@@ -531,8 +526,8 @@
         - Satorl Marsh Collectopaedia Parts Completion
         - Satorl Marsh Collectopaedia Strange Completion
     - Category: HeartToHearts
+        - Overlooking the Colony
         - The Shimmering Marsh
-        - Atop the Crown Tree
     - Category: MonsterQuests
         - Monster Quest 1 (Satorl Marsh)
         - Monster Quest 2 (Satorl Marsh)
@@ -605,9 +600,7 @@
         - Nopon Sage
     - Category: AffinityQuests
         - A Young Captain's Challenge
-        - Legend of Mythical Empress
         - Rest in Peace
-        - A Gutsy Trader
     - Category: Collectopaedia
         - Makna Forest Collectopaedia Page Completion
         - Makna Forest Collectopaedia Vegetable Completion
@@ -712,6 +705,8 @@
     - Category: AffinityQuests
         - Paola and Narine
         - The Old Soldier's Test
+        - Legend of Mythical Empress
+        - A Gutsy Trader
         - Hunt for Bug-Loving Friend
         - Leku's Food Crisis
         - Making a Mixer
@@ -778,6 +773,7 @@
         - A Heropon's Perspective
         - Glowing in the Night
         - High Entia History
+        - Atop the Crown Tree
         - Fallen Brethren
         - Riki's Crazy Crystal Plan
         - No Boys Allowed
@@ -839,7 +835,6 @@
         - Challenge (Eryth Sea)
     - Category: CollectionQuests
         - Collect Quest 1 (Eryth Sea)
-        - Collect Quest 2 (Eryth Sea)
     - Category: Collectopaedia
         - Eryth Sea Collectopaedia Page Completion
         - Eryth Sea Collectopaedia Vegetable Completion
@@ -849,13 +844,10 @@
         - Eryth Sea Collectopaedia Strange Completion
     - Category: HeartToHearts
         - Fish Fly! Fish Fly!
-        - A Gift for a Loved One
         - Flowers of Eryth Sea
     - Category: MonsterQuests
         - Monster Quest 1 (Eryth Sea)
         - Monster Quest 2 (Eryth Sea)
-    - Category: StoryQuests
-        - Save the Worker
     - Category: UniqueMonsters
         - Bizarre Ragoel (Lv 88)
         - Clamorous Dablon (Lv 92)
@@ -948,6 +940,7 @@
         - Cook-Off Final Blow?!
         - A Delectable Delicacy
         - Looking for Freedom
+        - Odd Smoke - Investigation
         - Gather Information
         - Dangerous Ambition (MISSABLE)
         - Find the Kingpin (MISSABLE)
@@ -995,14 +988,8 @@
         - Alcamoth Development Level 3
         - Alcamoth Development Level 4
         - Alcamoth Development Level 5
-    - Category: Eryth Sea Bosses
-        - Skyray
     - Category: HeartToHearts
         - So Close, Yet So Far
-        - A Breathtaking Sight
-        - Brother and Sister
-        - The Forefathers
-        - Melia's Imperial Villa
         - Ancient Astrology
     - Category: MaterialQuests
         - Material Quest 1 (Alcamoth) (MISSABLE)
@@ -1028,6 +1015,8 @@
         - Search Quest 2 (Alcamoth) (MISSABLE)
         - Search Quest 3 (Alcamoth) (MISSABLE)
         - Search Quest 4 (Alcamoth) (MISSABLE)
+    - Category: StoryQuests
+        - Save the Worker
     - Category: landmarks
         - Main Entrance (Alcamoth)
         - Fountain of Hope
@@ -1056,16 +1045,24 @@
     - Category: AffinityQuests
         - A Necessary Upgrade (MISSABLE)
         - Starlight Gazer (MISSABLE)
+    - Category: CollectionQuests
+        - Collect Quest 2 (Eryth Sea)
     - Category: Collectopaedia
         - High Entia Tomb Collectopaedia Page Completion
         - High Entia Tomb Collectopaedia Bug Completion
         - High Entia Tomb Collectopaedia Part Completion
         - High Entia Tomb Collectopaedia Strange Completion
+    - Category: Eryth Sea Bosses
+        - Skyray
     - Category: HeartToHearts
+        - A Breathtaking Sight
         - Echoes of Ancient Times
     - Category: High Entia Tomb Bosses
         - Orluga Rufus
         - Solidum Telethia and Tyrea
+    - Category: StoryQuests
+        - Path to Prison Island
+        - Sister Seals
     - Category: UniqueMonsters
         - Calm Anzabi (Lv 38)
         - Furious Jozan (Lv 55)
@@ -1079,15 +1076,12 @@
     - Category: locations
         - Hall of Spirits
         - Hall of Trials
-        - Telethia Laboratory
-        - Imperial Treasury
         - Second Treasury
 - Region: Prison Island (1st Visit)
     - Category: Achievements
         - Local Hero
     - Category: AffinityQuests
         - Giant Attack!
-        - Material Quest 3 (Frontier Village)
         - Mystery of Makna Ruins 1
         - Mystery of Makna Ruins 2
         - Healing the Healer
@@ -1097,12 +1091,8 @@
         - Mystery of Makna Ruins 4
         - Getting Bigger!
         - Who is Bigger?
-        - Believing Again (MISSABLE)
     - Category: Prison Island (First Visit) Bosses
         - Metal Face (Prison Island)
-    - Category: StoryQuests
-        - Path to Prison Island
-        - Sister Seals
     - Category: UniqueMonsters
         - Brutal Gravar (Lv 46)
     - Category: landmarks
@@ -1135,6 +1125,8 @@
         - The Most Transparent Thing
         - A Final Sweet Favour
         - Bridge Repair
+        - Material Quest 3 (Frontier Village)
+        - Believing Again (MISSABLE)
         - Chilkins and Antols
         - Valak Mountain Research
         - The Freezing Nopon
@@ -1151,7 +1143,6 @@
         - Valak Mountain Collectopaedia Strange Completion
     - Category: HeartToHearts
         - A Snowy Hot Spring
-        - First Sight of Snow
         - In Ose Tower
     - Category: MonsterQuests
         - Monster Quest 1 (Valak Mountain)
@@ -1182,7 +1173,6 @@
         - Nopon Camp
         - Harict Chapel
         - Lava Cave
-        - La Luz Church
         - Nofol Tower
         - Bionis' Wrist
     - Category: locations
@@ -1365,12 +1355,17 @@
         - Fallen Arm Development Level 4
         - Fallen Arm Development Level 5
     - Category: HeartToHearts
+        - Fiora's Cooking
         - A Scene Revisited
         - Recovery and Reflection
         - Quiet Time
         - Reawakened Memories
         - A Day Like Any Other
         - Riki Have Question
+        - A Gift for a Loved One
+        - Brother and Sister
+        - The Forefathers
+        - Melia's Imperial Villa
         - Just Like Old Times
         - A Family of Two
         - A Night-Time Chat
@@ -1503,7 +1498,6 @@
         - Eliminate the Backup! (MISSABLE)
         - Roof Battle (MISSABLE)
         - Daring Assault (MISSABLE)
-        - New Weapon for Fiora
     - Category: Central Factory Bosses
         - Apocrypha Generator (Boss)
     - Category: Collectopaedia
@@ -1564,6 +1558,7 @@
         - Spirited Adventurer
     - Category: AffinityQuests
         - The History of the Capital (MISSABLE)
+        - New Weapon for Fiora
         - Telethia Investigation 1
         - Telethia Investigation 2
     - Category: Agniratha Bosses
@@ -1650,7 +1645,6 @@
         - Crystallised Luck
         - Crafting Your Destiny
         - Firing on All Cylinders
-        - Stamp of Insanity
         - Love at First Bite
         - Party's in Full Swing
         - Treasure Trove
@@ -1674,9 +1668,7 @@
         - Securing Provisions
         - Delivering the Undeliverable
         - Finding the Unfindable
-        - Lifespan of a Machina
         - A Dauntless Trader
-        - A Poet's Concerns
         - For a Friend
         - A Merciful End
         - A Release From Duty
@@ -1713,6 +1705,7 @@
         - The Legend of the Spider
         - Renewed Determination
         - Hopes and Plans
+        - First Sight of Snow
     - Category: Mechonis Core Bosses
         - Yaldabaoth (Mechonis Core)
         - Zanza (Mechonis Core)
@@ -1751,6 +1744,7 @@
     - Category: landmarks
         - Bafalgar Tomb
         - Heavenly Window
+        - La Luz Church
     - Category: locations
         - Hidden Warehouse
         - Forgotten Cave
@@ -1761,12 +1755,15 @@
         - Trader's Stopover
         - Arachno Feeding Lair
         - Path of Absolution
+        - Telethia Laboratory
+        - Imperial Treasury
         - Mechonis Core (Location)
 - Region: Bionis' Interior (2nd Visit)
     - Category: Achievements
         - The Hopeful Survivors
-        - Good and Fixed
     - Category: AffinityQuests
+        - Lifespan of a Machina
+        - A Poet's Concerns
         - Replica Monado 1
         - Replica Monado 2
         - Replica Monado 3
@@ -1806,6 +1803,8 @@
 - Region: Prison Island (2nd Visit)
     - Category: Achievements
         - Ace of Hearts
+        - Good and Fixed
+        - Stamp of Insanity
     - Category: Collectopaedia
         - Prison Island Collectopaedia Page Completion
         - Prison Island Collectopaedia Fruit Completion
@@ -1817,6 +1816,7 @@
     - Category: CollectorGoal
         - Collector Goal
     - Category: HeartToHearts
+        - The Colony Reborn
         - Untold Feelings
         - Journey's End
         - Before the Final Battle

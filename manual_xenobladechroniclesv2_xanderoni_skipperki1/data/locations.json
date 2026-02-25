@@ -520,7 +520,7 @@
   },
   {
     "name": "Fiora's Cooking",
-    "region": "Colony 9",
+    "region": "Fallen Arm",
     "category": [
       "Colony 9 Heart-to-Hearts","HeartToHearts"
     ],
@@ -536,7 +536,7 @@
   },
   {
     "name": "Overlooking the Colony",
-    "region": "Bionis' Leg",
+    "region": "Satorl Marsh",
     "category": [
       "Colony 9 Heart-to-Hearts","HeartToHearts"
     ],
@@ -1114,7 +1114,7 @@
   },
   {
     "name": "What Visions May Bring",
-    "region": "Bionis' Leg",
+    "region": "Ether Mine",
     "category": [
       "Bionis' Leg Heart-to-Hearts","HeartToHearts"
     ],
@@ -1195,7 +1195,7 @@
   },
   {
     "name": "Reconstruction HQ",
-    "region": "Colony 6",
+    "region": "Ether Mine",
     "category": [
       "Colony 6 Landmarks","landmarks"
     ]
@@ -1381,7 +1381,7 @@
   },
   {
     "name": "The Colony Reborn",
-    "region": "Ether Mine",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Colony 6 Heart-to-Hearts","HeartToHearts"
     ],
@@ -1839,7 +1839,7 @@
   },
   {
     "name": "Atop the Crown Tree",
-    "region": "Satorl Marsh",
+    "region": "Frontier Village",
     "category": [
       "Satorl Marsh Heart-to-Hearts","HeartToHearts"
     ],
@@ -2790,7 +2790,7 @@
   },
   {
     "name": "Skyray",
-    "region": "Alcamoth",
+    "region": "High Entia Tomb",
     "category": [
       "Eryth Sea Bosses"
     ]
@@ -2827,7 +2827,7 @@
   },
   {
     "name": "A Gift for a Loved One",
-    "region": "Eryth Sea",
+    "region": "Fallen Arm",
     "category": [
       "Eryth Sea Heart-to-Hearts","HeartToHearts"
     ],
@@ -3215,7 +3215,7 @@
   },
   {
     "name": "A Breathtaking Sight",
-    "region": "Alcamoth",
+    "region": "High Entia Tomb",
     "category": [
       "Alcamoth Heart-to-Hearts","HeartToHearts"
     ],
@@ -3223,7 +3223,7 @@
   },
   {
     "name": "Brother and Sister",
-    "region": "Alcamoth",
+    "region": "Fallen Arm",
     "category": [
       "Alcamoth Heart-to-Hearts","HeartToHearts"
     ],
@@ -3231,7 +3231,7 @@
   },
   {
     "name": "The Forefathers",
-    "region": "Alcamoth",
+    "region": "Fallen Arm",
     "category": [
       "Alcamoth Heart-to-Hearts","HeartToHearts"
     ],
@@ -3239,7 +3239,7 @@
   },
   {
     "name": "Melia's Imperial Villa",
-    "region": "Alcamoth",
+    "region": "Fallen Arm",
     "category": [
       "Alcamoth Heart-to-Hearts","HeartToHearts"
     ],
@@ -3483,7 +3483,7 @@
   },
   {
     "name": "La Luz Church",
-    "region": "Valak Mountain",
+    "region": "Mechonis Core",
     "category": [
       "Valak Mountain Landmarks","landmarks"
     ]
@@ -3673,7 +3673,7 @@
   },
   {
     "name": "First Sight of Snow",
-    "region": "Valak Mountain",
+    "region": "Mechonis Core",
     "category": [
       "Valak Mountain Heart-to-Hearts","HeartToHearts"
     ],
@@ -5701,7 +5701,7 @@
   },
   {
     "name": "Liliana's Sincere Request",
-    "region": "Colony 9",
+    "region": "Tephra Cave",
     "category": [
       "Colony 9 Quests (Development Level 2)","AffinityQuests"
     ]
@@ -5772,21 +5772,21 @@
   },
   {
     "name": "Overworked and Underpaid",
-    "region": "Colony 9",
+    "region": "Tephra Cave",
     "category": [
       "Colony 9 Quests (Development Level 2)","AffinityQuests"
     ]
   },
   {
     "name": "The Plan - The Night Before",
-    "region": "Colony 9",
+    "region": "Tephra Cave",
     "category": [
       "Colony 9 Quests (Development Level 2)","AffinityQuests"
     ]
   },
   {
     "name": "The Plan - Execution",
-    "region": "Colony 9",
+    "region": "Tephra Cave",
     "category": [
       "Colony 9 Quests (Development Level 3)","AffinityQuests"
     ],
@@ -6209,7 +6209,7 @@
   },
   {
     "name": "Legend of Mythical Empress",
-    "region": "Makna Forest",
+    "region": "Frontier Village",
     "category": [
       "Bionis' Leg Quests (Colony 6 Development Level 3)","AffinityQuests"
     ]
@@ -6259,35 +6259,35 @@
   },
   {
     "name": "Chemist's Reopening",
-    "region": "Ether Mine",
+    "region": "Satorl Marsh",
     "category": [
       "Colony 6 Quests","AffinityQuests"
     ]
   },
   {
     "name": "For the Restoration (MISSABLE)",
-    "region": "Ether Mine",
+    "region": "Satorl Marsh",
     "category": [
       "Colony 6 Quests","AffinityQuests"
     ]
   },
   {
     "name": "Making a New Path (MISSABLE)",
-    "region": "Ether Mine",
+    "region": "Satorl Marsh",
     "category": [
       "Colony 6 Quests","AffinityQuests"
     ]
   },
   {
     "name": "Satata's Younger Brother",
-    "region": "Ether Mine",
+    "region": "Satorl Marsh",
     "category": [
       "Colony 6 Quests","AffinityQuests"
     ]
   },
   {
     "name": "A Selfish Girl's Mistake",
-    "region": "Ether Mine",
+    "region": "Satorl Marsh",
     "category": [
       "Colony 6 Quests (Development Level 1)","AffinityQuests"
     ]
@@ -6301,7 +6301,7 @@
   },
   {
     "name": "A Gutsy Trader",
-    "region": "Makna Forest",
+    "region": "Frontier Village",
     "category": [
       "Colony 6 Quests","AffinityQuests"
     ]
@@ -6406,7 +6406,7 @@
   },
   {
     "name": "Odd Smoke - Investigation",
-    "region": "Colony 6",
+    "region": "Alcamoth",
     "category": [
       "Colony 6 Quests","AffinityQuests"
     ]
@@ -6478,7 +6478,7 @@
   },
   {
     "name": "Lifespan of a Machina",
-    "region": "Mechonis Core",
+    "region": "Bionis' Interior (2nd Visit)",
     "category": [
       "Colony 6 Quests (Development Level 2)","AffinityQuests"
     ]
@@ -6492,7 +6492,7 @@
   },
   {
     "name": "A Poet's Concerns",
-    "region": "Mechonis Core",
+    "region": "Bionis' Interior (2nd Visit)",
     "category": [
       "Colony 6 Quests (Development Level 3)","AffinityQuests"
     ]
@@ -7192,7 +7192,7 @@
   },
   {
     "name": "Material Quest 3 (Frontier Village)",
-    "region": "Prison Island (1st Visit)",
+    "region": "Valak Mountain",
     "category": [
       "Frontier Village Quests","AffinityQuests"
     ]
@@ -7332,7 +7332,7 @@
   },
   {
     "name": "Save the Worker",
-    "region": "Eryth Sea",
+    "region": "Alcamoth",
     "category": [
       "Eryth Sea Quests (Story)","StoryQuests"
     ]
@@ -7354,7 +7354,7 @@
   },
   {
     "name": "Collect Quest 2 (Eryth Sea)",
-    "region": "Eryth Sea",
+    "region": "High Entia Tomb",
     "category": [
       "Eryth Sea Quests","CollectionQuests"
     ]
@@ -7410,14 +7410,14 @@
   },
   {
     "name": "Path to Prison Island",
-    "region": "Prison Island (1st Visit)",
+    "region": "High Entia Tomb",
     "category": [
       "Eryth Sea Quests (Story)","StoryQuests"
     ]
   },
   {
     "name": "Sister Seals",
-    "region": "Prison Island (1st Visit)",
+    "region": "High Entia Tomb",
     "category": [
       "Eryth Sea Quests (Story)","StoryQuests"
     ]
@@ -7799,7 +7799,7 @@
   },
   {
     "name": "Believing Again (MISSABLE)",
-    "region": "Prison Island (1st Visit)",
+    "region": "Valak Mountain",
     "category": [
       "Alcamoth Quests (Development Level 1)","AffinityQuests"
     ]
@@ -8303,7 +8303,7 @@
   },
   {
     "name": "New Weapon for Fiora",
-    "region": "Central Factory (MISSABLE)",
+    "region": "Agniratha (MISSABLE)",
     "category": [
       "Central Factory Quests","AffinityQuests"
     ]
@@ -9357,14 +9357,14 @@
   },
   {
     "name": "Telethia Laboratory",
-    "region": "High Entia Tomb",
+    "region": "Mechonis Core",
     "category": [
       "High Entia Tomb Locations","locations"
     ]
   },
   {
     "name": "Imperial Treasury",
-    "region": "High Entia Tomb",
+    "region": "Mechonis Core",
     "category": [
       "High Entia Tomb Locations","locations"
     ]
@@ -10496,7 +10496,7 @@
   },
     {
     "name": "Good and Fixed",
-    "region": "Bionis' Interior (2nd Visit)",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Achievements"
     ],
@@ -11344,7 +11344,7 @@
   },
   {
     "name": "Stamp of Insanity",
-    "region": "Mechonis Core",
+    "region": "Prison Island (2nd Visit)",
     "category": [
       "Achievements"
     ]
