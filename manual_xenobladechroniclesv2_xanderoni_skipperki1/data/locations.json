@@ -6413,10 +6413,11 @@
   },
   {
     "name": "In Pursuit of Love",
-    "region": "Fallen Arm",
+    "region": "Central Factory (MISSABLE)",
     "category": [
       "Colony 6 Quests (Development Level 1)","AffinityQuests"
-    ]
+    ],
+  "requires": "|Colony 6 Reconstruction Housing Level:5|"
   },
   {
     "name": "Odd Smoke - Resolution",
