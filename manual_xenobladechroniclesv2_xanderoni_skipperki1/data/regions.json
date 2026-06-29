@@ -1,16 +1,17 @@
 {
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.regions.schema.json",
   "Prologue": {
     "starting": true,
     "connects_to": [
       "Colony 9"
     ],
-    "requires": []
+    "requires": ""
   },
   "Colony 9": {
     "connects_to": [
       "Tephra Cave"
     ],
-    "requires": []
+    "requires": ""
   },
   "Tephra Cave": {
     "connects_to": [
@@ -150,7 +151,7 @@
       "Agniratha (MISSABLE)",
       "Bionis' Interior (2nd Visit)"
     ],
-    "requires": "|Mechonis Core Key:3|"
+    "requires": "|Mechonis Core Key:3| AND |Progressive Hunting License:16|"
   },
   "Bionis' Interior (2nd Visit)": {
     "connects_to": [

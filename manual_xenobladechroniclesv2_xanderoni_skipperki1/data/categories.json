@@ -1,4 +1,22 @@
 {
+  "DefinitiveEdition": {
+    "hidden": true
+  },
+  "Switch2Version": {
+    "hidden": true
+  },
+  "Spoilers": {
+    "hidden": true,
+    "yaml_option": [
+      "Spoilers"
+    ]
+  },
+  "NoSpoilers": {
+    "hidden": true,
+    "yaml_option": [
+      "!Spoilers"
+    ]
+  },
   "Locations": {
     "hidden": false,
     "yaml_option": [
@@ -105,6 +123,12 @@
     "hidden": false,
     "yaml_option": [
       "collectopaediasanity"
+    ]
+  },
+  "NoponGrandPrix": {
+    "hidden": false,
+    "yaml_option": [
+      "NoponGrandPrix"
     ]
   }
 }
